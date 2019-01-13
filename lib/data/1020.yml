@@ -1,0 +1,336 @@
+---
+name: Powszechna Kasa Oszczędności Bank Polski Spółka Akcyjna
+10200003:
+  branch: Departament Rozliczeń
+10200016:
+  branch: Departament Rozliczeń - Centrala
+10200029:
+  branch: Centrum Kart Kredytowych i Operacji Kartowych
+10200032:
+  branch: Departament Produktów Korporacyjnych - Płatności Masowe 1
+10200045:
+  branch: Departament Produktów Korporacyjnych - Płatności Masowe 2
+10200058:
+  branch: Departament Produktów Korporacyjnych - Płatności Masowe 3
+10200061:
+  branch: Departament Produktów Korporacyjnych - Płatności Masowe 4
+10200074:
+  branch: Departament Produktów Zarządzania Środkami Finansowymi - Płatności Masowe 5
+10200117:
+  branch: Centrum Zarządzania Gotówką Zespół CZG w Bydgoszczy
+10200120:
+  branch: Centrum Zarządzania Gotówką Zespół CZG w Gdańsku
+10200133:
+  branch: Centrum Zarządzania Gotówką Zespół CZG w Krzeszowicach
+10200146:
+  branch: Centrum Zarządzania Gotówką Zespół CZG w Łomiankach
+10200159:
+  branch: Centrum Zarządzania Gotówką Zespół CZG w Częstochowie
+10200162:
+  branch: Centrum Zarządzania Gotówką Zespół CZG w Sosnowcu
+10200175:
+  branch: Centrum Zarządzania Gotówką Zespół CZG w Łęcznej
+10200188:
+  branch: Centrum Zarządzania Gotówką Zespół CZG w Łodzi
+10200191:
+  branch: Centrum Zarządzania Gotówką Zespół CZG w Olsztynie
+10200205:
+  branch: Centrum Zarządzania Gotówką Zespół CZG w Poznaniu
+10200218:
+  branch: Centrum Zarządzania Gotówką Zespół CZG w Rzeszowie
+10200221:
+  branch: Centrum Zarządzania Gotówką Zespół CZG w Szczecinie
+10200234:
+  branch: Centrum Zarządzania Gotówką Zespół CZG we Wrocławiu
+10200247:
+  branch: Centrum Zarządzania Gotówką Zespół CZG w Zielonej Górze
+10200250:
+  branch: Centrum Zarządzania Gotówką Zespół CZG w Białymstoku
+10200263:
+  branch: Centrala-rachunki Banku
+10201013:
+  branch: Oddział 1 w Warszawie
+10201026:
+  branch: Oddział 2 w Warszawie
+10201042:
+  branch: Oddział 4 w Warszawie
+10201055:
+  branch: Oddział 5 w Warszawie
+10201068:
+  branch: Oddział 6 w Warszawie
+10201097:
+  branch: Oddział 9 w Warszawie
+10201127:
+  branch: Oddział 12 w Warszawie
+10201156:
+  branch: Oddział 14 w Warszawie
+10201169:
+  branch: Oddział 16 w Warszawie
+10201185:
+  branch: Oddział 18 w Warszawie
+10201260:
+  branch: Oddział 1 w Białej Podlaskiej
+10201332:
+  branch: Oddział 1 w Białymstoku
+10201390:
+  branch: Oddział 1 w Bielsku-Białej
+10201433:
+  branch: Oddział 1 w Wadowicach
+10201462:
+  branch: Oddział 1 w Bydgoszczy
+10201475:
+  branch: Oddział 2 w Bydgoszczy
+10201491:
+  branch: Oddział 1 w Chojnicach
+10201505:
+  branch: Oddział 1 w Inowrocławiu
+10201563:
+  branch: Oddział 1 w Chełmie
+10201592:
+  branch: Oddział 1 w Ciechanowie
+10201664:
+  branch: Oddział 2 w Częstochowie
+10201752:
+  branch: Oddział 1 w Elblągu
+10201778:
+  branch: Oddział 1 w Kwidzynie
+10201811:
+  branch: Oddział 1 w Gdańsku
+10201853:
+  branch: Oddział 1 w Gdyni
+10201866:
+  branch: Oddział 1 w Kartuzach
+10201879:
+  branch: Oddział 1 w Kościerzynie
+10201909:
+  branch: Oddział 1 w Tczewie
+10201912:
+  branch: Oddział 1 w Wejherowie
+10201954:
+  branch: Oddział 1 w Gorzowie Wielkopolskim
+10201967:
+  branch: Oddział 2 w Gorzowie Wielkopolskim
+10202036:
+  branch: Oddział 1 w Sulęcinie
+10202124:
+  branch: Oddział 1 w Jeleniej Górze
+10202137:
+  branch: Oddział 1 w Bolesławcu
+10202212:
+  branch: Oddział 1 w Kaliszu
+10202241:
+  branch: Oddział 1 w Kępnie
+10202267:
+  branch: Oddział 1 w Ostrowie Wielkopolskim
+10202313:
+  branch: Oddział 1 w Katowicach
+10202368:
+  branch: Oddział 1 w Bytomiu
+10202384:
+  branch: Oddział 1 w Chrzanowie
+10202401:
+  branch: Oddział 1 w Gliwicach
+10202430:
+  branch: Oddział 1 w Olkuszu
+10202472:
+  branch: Oddział 1 w Rybniku
+10202498:
+  branch: Oddział 1 w Sosnowcu
+10202528:
+  branch: Oddział 1 w Tychach
+10202629:
+  branch: Oddział 1 w Kielcach
+10202645:
+  branch: Oddział 1 w Busku-Zdroju
+10202674:
+  branch: Oddział 1 w Ostrowcu Świętokrzyskim
+10202733:
+  branch: Oddział 1 w Jędrzejowie
+10202746:
+  branch: Oddział 1 w Koninie
+10202762:
+  branch: Oddział 1 w Kole
+10202791:
+  branch: Oddział 1 w Koszalinie
+10202821:
+  branch: Oddział 1 w Kołobrzegu
+10202847:
+  branch: Oddział 1 w Drawsku Pomorskim
+10202892:
+  branch: Oddział 1 w Krakowie
+10202906:
+  branch: Oddział 2 w Krakowie
+10202964:
+  branch: Oddział 1 w Krośnie
+10202980:
+  branch: Oddział 1 w Sanoku
+10203017:
+  branch: Oddział 1 w Legnicy
+10203088:
+  branch: Oddział 1 w Lesznie
+10203121:
+  branch: Oddział 1 w Gostyniu
+10203147:
+  branch: Oddział 1 w Lublinie
+10203150:
+  branch: Oddział 2 w Lublinie
+10203176:
+  branch: Oddział 4 w Lublinie
+10203206:
+  branch: Oddział 1 w Lubartowie
+10203219:
+  branch: Oddział 1 w Puławach
+10203235:
+  branch: Oddział 1 w Opolu Lubelskim
+10203352:
+  branch: Oddział 1 w Łodzi
+10203378:
+  branch: Oddział 3 w Łodzi
+10203408:
+  branch: Oddział 6 w Łodzi
+10203437:
+  branch: Oddział 1 w Pabianicach
+10203440:
+  branch: Oddział 1 w Zgierzu
+10203453:
+  branch: Oddział 1 w Nowym Sączu
+10203466:
+  branch: Oddział 1 w Nowym Targu
+10203541:
+  branch: Oddział 2 w Olsztynie
+10203570:
+  branch: Oddział 1 w Bartoszycach
+10203583:
+  branch: Oddział 1 w Iławie
+10203613:
+  branch: Oddział 1 w Ostródzie
+10203639:
+  branch: Oddział 1 w Mrągowie
+10203668:
+  branch: Oddział 1 w Opolu
+10203714:
+  branch: Oddział 1 w Kędzierzynie-Koźlu
+10203802:
+  branch: Oddział 1 w Ostrołęce
+10203844:
+  branch: Oddział 1 w Pile
+10203903:
+  branch: Oddział 1 w Wągrowcu
+10203916:
+  branch: Oddział 1 w Piotrkowie Trybunalskim
+10203958:
+  branch: Oddział 1 w Bełchatowie
+10203974:
+  branch: Oddział 2 w Płocku
+10204027:
+  branch: Oddział 1 w Poznaniu
+10204115:
+  branch: Oddział 1 w Gnieźnie
+10204128:
+  branch: Oddział 1 w Szamotułach
+10204144:
+  branch: Oddział 1 w Nowym Tomyślu
+10204160:
+  branch: Oddział 1 w Śremie
+10204274:
+  branch: Oddział 1 w Przemyślu
+10204287:
+  branch: Oddział 1 w Jarosławiu
+10204317:
+  branch: Oddział 1 w Radomiu
+10204391:
+  branch: Oddział 1 w Rzeszowie
+10204405:
+  branch: Oddział 2 w Rzeszowie
+10204476:
+  branch: Oddział 1 w Siedlcach
+10204564:
+  branch: Oddział 1 w Wieluniu
+10204580:
+  branch: Oddział 1 w Skierniewicach
+10204649:
+  branch: Oddział 1 w Słupsku
+10204665:
+  branch: Oddział 1 w Człuchowie
+10204681:
+  branch: Oddział 1 w Sławnie
+10204708:
+  branch: Oddział 1 w Bytowie
+10204724:
+  branch: Oddział 1 w Ełku
+10204753:
+  branch: Oddział 1 w Piszu
+10204795:
+  branch: Oddział 1 w Szczecinie
+10204812:
+  branch: Oddział 3 w Szczecinie
+10204867:
+  branch: Oddział 1 w Stargardzie Szczecińskim
+10204870:
+  branch: Oddział 1 w Świnoujściu
+10204900:
+  branch: Centrum Bankowości Detalicznej - BIS
+10204913:
+  branch: Oddział 1 w Tarnobrzegu
+10204926:
+  branch: Oddział 1 w Sandomierzu
+10204939:
+  branch: Oddział 1 w Stalowej Woli
+10204955:
+  branch: Oddział 2 w Tarnowie
+10204984:
+  branch: Oddział 1 w Brzesku
+10205011:
+  branch: Oddział 2 w Toruniu
+10205024:
+  branch: Oddział 1 w Brodnicy
+10205040:
+  branch: Oddział 1 w Grudziądzu
+10205095:
+  branch: Oddział 1 w Wałbrzychu
+10205112:
+  branch: Oddział 1 w Kłodzku
+10205138:
+  branch: Oddział 1 w Świdnicy
+10205170:
+  branch: Oddział 1 we Włocławku
+10205200:
+  branch: Oddział 1 w Ciechocinku
+10205226:
+  branch: Oddział 1 we Wrocławiu
+10205242:
+  branch: Oddział 3 we Wrocławiu
+10205297:
+  branch: Oddział 1 w Oleśnicy
+10205356:
+  branch: Oddział 1 w Zamościu
+10205385:
+  branch: Oddział 1 w Biłgoraju
+10205402:
+  branch: Oddział 1 w Zielonej Górze
+10205460:
+  branch: Oddział 1 w Żarach
+10205558:
+  branch: Departament Rozliczeń - Bankowość Elektroniczna
+10205561:
+  branch: Oddział 56 w Warszawie
+10205574:
+  branch: Departament Sprzedaży Detalicznej - Oddział
+10205587:
+  branch: Centrum Bankowości Prywatnej
+10205590:
+  branch: CENTRUM KORPORACYJNE I WARSZAWA - Rozliczenia
+10205604:
+  branch: Departament Rozliczeń - Świadczenia
+10205617:
+  branch: Departament Produktów Zarządzania Środkami Finansowymi - Płatności Masowe 6
+10205620:
+  branch: Departament Produktów Zarządzania Środkami Finansowymi - Płatności Masowe 7
+10205633:
+  branch: Departament Rozliczeń - Elixir Direct
+10205659:
+  branch: Niederlassung Deutschland
+10205662:
+  branch: Oddział w Republice Czeskiej/Czech Branch
+10205646:
+  branch: Rachunek rozliczeniowy

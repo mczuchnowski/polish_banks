@@ -1,0 +1,372 @@
+---
+name: Santander Bank Polska Spółka Akcyjna
+10900004:
+  branch: Centrala
+10900020:
+  branch: Centrala - Centrum Kredytowe w Poznaniu
+10900033:
+  branch: Centrala - Centrum Szkolenia w Zakrzewie
+10900046:
+  branch: Departament Rachunkowości Operacyjnej
+10900059:
+  branch: Centrala - Centrum Usług Rozliczeniowych we Wrocławiu
+10900075:
+  branch: Centrala - Biuro Obsługi Klienta
+10900088:
+  branch: Oddział Centralny
+10901014:
+  branch: 1 Oddział w Warszawie
+10901030:
+  branch: 13 Oddział w Warszawie
+10901043:
+  branch: 3 Oddział w Warszawie
+10901056:
+  branch: 4 Oddział w Warszawie
+10901069:
+  branch: 1 Oddział w Inowrocławiu
+10901072:
+  branch: 1 Oddział w Bydgoszczy
+10901098:
+  branch: 1 Oddział w Gdańsku
+10901102:
+  branch: 1 Oddział w Gdyni
+10901115:
+  branch: 1 Oddział w Słubicach
+10901128:
+  branch: 1 Oddział w Kaliszu
+10901131:
+  branch: 1 Oddział w Jarocinie
+10901144:
+  branch: 1 Oddział w Kępnie
+10901157:
+  branch: 1 Oddział w Krotoszynie
+10901160:
+  branch: 1 Oddział w Ostrowie Wielkopolskim
+10901173:
+  branch: 1 Oddział w Ostrzeszowie
+10901186:
+  branch: 1 Oddział w Katowicach
+10901199:
+  branch: 1 Oddział w Koninie
+10901203:
+  branch: 1 Oddział w Kole
+10901216:
+  branch: 1 Oddział w Słupcy
+10901229:
+  branch: 1 Oddział w Turku
+10901232:
+  branch: 2 Oddział w Legnicy
+10901245:
+  branch: 1 Oddział w Lesznie
+10901258:
+  branch: 1 Oddział w Gostyniu
+10901261:
+  branch: 1 Oddział w Górze
+10901274:
+  branch: 1 Oddział w Kościanie
+10901287:
+  branch: 1 Oddział w Rawiczu
+10901290:
+  branch: 1 Oddział we Wschowie
+10901304:
+  branch: 2 Oddział w Łodzi
+10901317:
+  branch: 1 Oddział w Chodzieży
+10901320:
+  branch: 1 Oddział w Pile
+10901333:
+  branch: 3 Oddział w Płocku
+10901346:
+  branch: 2 Oddział w Poznaniu
+10901359:
+  branch: 3 Oddział w Poznaniu
+10901362:
+  branch: 6 Oddział w Poznaniu
+10901375:
+  branch: 1 Oddział w Gnieźnie
+10901388:
+  branch: 1 Oddział w Nowym Tomyślu
+10901391:
+  branch: 1 Oddział w Szamotułach
+10901405:
+  branch: 1 Oddział w Śremie
+10901418:
+  branch: 1 Oddział w Środzie Wielkopolskiej
+10901421:
+  branch: 1 Oddział we Wrześni
+10901434:
+  branch: 1 Oddział w Grodzisku Wielkopolskim
+10901447:
+  branch: 5 Oddział w Poznaniu
+10901450:
+  branch: 1 Oddział w Swarzędzu
+10901463:
+  branch: 1 Oddział w Poznaniu
+10901476:
+  branch: 4 Oddział w Poznaniu
+10901489:
+  branch: CUR Wydział Rozliczeń Elektronicznych
+10901492:
+  branch: 3 Oddział w Szczecinie
+10901506:
+  branch: 1 Oddział w Toruniu
+10901519:
+  branch: 1 Oddział we Włocławku
+10901522:
+  branch: 5 Oddział we Wrocławiu
+10901535:
+  branch: 1 Oddział w Zielonej Górze
+10901548:
+  branch: 1 Oddział w Gubinie
+10901551:
+  branch: 1 Oddział w Krośnie Odrzańskim
+10901564:
+  branch: 1 Oddział w Lubsku
+10901577:
+  branch: 1 Oddział w Nowej Soli
+10901580:
+  branch: 1 Oddział w Sulechowie
+10901593:
+  branch: 1 Oddział w Świebodzinie
+10901607:
+  branch: 1 Oddział w Wolsztynie
+10901623:
+  branch: 3 Oddział w Gorzowie Wielkopolskim
+10901636:
+  branch: 2 Oddział w Zielonej Górze
+10901649:
+  branch: 3 Oddział w Opolu
+10901652:
+  branch: 1 Oddział w Tychach
+10901665:
+  branch: 2 Oddział w Krakowie
+10901678:
+  branch: 1 Oddział w Grudziądzu
+10901681:
+  branch: 1 Oddział w Świebodzicach
+10901694:
+  branch: 5 Oddział w Warszawie
+10901708:
+  branch: 4 Oddział w Jeleniej Górze
+10901711:
+  branch: 2 Oddział w Koszalinie
+10901737:
+  branch: 7 Oddział w Poznaniu
+10901740:
+  branch: 1 Oddział w Bielsku-Białej
+10901753:
+  branch: 6 Oddział w Warszawie
+10901766:
+  branch: 1 Oddział w Gliwicach
+10901779:
+  branch: 2 Oddział w Bytomiu
+10901782:
+  branch: 1 Oddział w Cieszynie
+10901795:
+  branch: 1 Oddział w Częstochowie
+10901809:
+  branch: 2 Oddział w Katowicach
+10901812:
+  branch: 1 Oddział w Świętochłowicach
+10901825:
+  branch: 1 Oddział w Tarnowskich Górach
+10901838:
+  branch: 1 Oddział w Tarnowie
+10901841:
+  branch: 7 Oddział w Warszawie
+10901854:
+  branch: 8 Oddział w Poznaniu
+10901867:
+  branch: Dom Maklerski
+10901870:
+  branch: 8 Oddział w Warszawie
+10901883:
+  branch: 9 Oddział w Warszawie
+10901896:
+  branch: 3 Oddział w Bydgoszczy
+10901900:
+  branch: 1 Oddział w Gorzowie Wielkopolskim
+10901926:
+  branch: 1 Oddział w Jeleniej Górze
+10901939:
+  branch: 1 Oddział w Bolesławcu
+10901942:
+  branch: 1 Oddział w Kamiennej Górze
+10901955:
+  branch: 1 Oddział w Lubaniu
+10901968:
+  branch: 1 Oddział w Zgorzelcu
+10901971:
+  branch: 1 Oddział w Bogatyni
+10901984:
+  branch: 1 Oddział w Szklarskiej Porębie
+10901997:
+  branch: 2 Oddział w Jeleniej Górze
+10902008:
+  branch: 4 Oddział w Katowicach
+10902011:
+  branch: 1 Oddział w Bytomiu
+10902024:
+  branch: 1 Oddział w Chorzowie
+10902037:
+  branch: 1 Oddział w Rudzie Śląskiej
+10902040:
+  branch: 1 Oddział w Kielcach
+10902053:
+  branch: 1 Oddział w Krakowie
+10902066:
+  branch: 1 Oddział w Legnicy
+10902079:
+  branch: 1 Oddział w Głogowie
+10902082:
+  branch: 1 Oddział w Lubinie
+10902095:
+  branch: 1 Oddział w Złotoryi
+10902109:
+  branch: 1 Oddział w Polkowicach
+10902112:
+  branch: 2 Oddział w Głogowie
+10902125:
+  branch: 2 Oddział w Lesznie
+10902138:
+  branch: 1 Oddział w Opolu
+10902141:
+  branch: 1 Oddział w Brzegu
+10902154:
+  branch: 1 Oddział w Głubczycach
+10902167:
+  branch: 1 Oddział w Głuchołazach
+10902170:
+  branch: 1 Oddział w Kluczborku
+10902183:
+  branch: 1 Oddział w Kędzierzynie-Koźlu
+10902196:
+  branch: 1 Oddział w Namysłowie
+10902200:
+  branch: 1 Oddział w Niemodlinie
+10902213:
+  branch: 1 Oddział w Paczkowie
+10902226:
+  branch: 1 Oddział w Prudniku
+10902239:
+  branch: 1 Oddział w Strzelcach Opolskich
+10902242:
+  branch: 2 Oddział w Opolu
+10902255:
+  branch: 9 Oddział w Poznaniu
+10902268:
+  branch: 1 Oddział w Szczecinie
+10902271:
+  branch: 1 Oddział w Wałbrzychu
+10902284:
+  branch: 1 Oddział w Bielawie
+10902297:
+  branch: 1 Oddział w Bystrzycy Kłodzkiej
+10902301:
+  branch: 1 Oddział w Dzierżoniowie
+10902314:
+  branch: 1 Oddział w Głuszycy
+10902327:
+  branch: 1 Oddział w Kłodzku
+10902330:
+  branch: 1 Oddział w Nowej Rudzie
+10902343:
+  branch: 1 Oddział w Strzegomiu
+10902356:
+  branch: 2 Oddział w Świebodzicach
+10902369:
+  branch: 1 Oddział w Świdnicy
+10902372:
+  branch: 1 Oddział w Ząbkowicach Śląskich
+10902385:
+  branch: 1 Oddział w Ziębicach
+10902398:
+  branch: 1 Oddział we Wrocławiu
+10902402:
+  branch: 2 Oddział we Wrocławiu
+10902415:
+  branch: 1 Oddział w Oleśnicy
+10902428:
+  branch: 1 Oddział w Oławie
+10902431:
+  branch: 1 Oddział w Strzelinie
+10902444:
+  branch: 1 Oddział w Środzie Śląskiej
+10902457:
+  branch: 1 Oddział w Trzebnicy
+10902460:
+  branch: 1 Oddział w Wołowie
+10902473:
+  branch: 3 Oddział we Wrocławiu
+10902486:
+  branch: 12 Oddział we Wrocławiu
+10902499:
+  branch: 1 Oddział w Brzegu Dolnym
+10902503:
+  branch: 4 Oddział we Wrocławiu
+10902516:
+  branch: 21 Oddział we Wrocławiu
+10902529:
+  branch: 17 Oddział we Wrocławiu
+10902532:
+  branch: 3 Oddział w Zielonej Górze
+10902545:
+  branch: 1 Oddział w Szprotawie
+10902558:
+  branch: 1 Oddział w Żaganiu
+10902561:
+  branch: 1 Oddział w Żarach
+10902574:
+  branch: 10 Oddział w Warszawie
+10902587:
+  branch: 1 Oddział w Białymstoku
+10902590:
+  branch: Oddział Centralny
+10902604:
+  branch: 1 Oddział w Ciechanowie
+10902617:
+  branch: 1 Oddział w Elblągu
+10902620:
+  branch: 1 Oddział w Starogardzie Gdańskim
+10902633:
+  branch: 3 Oddział w Jeleniej Górze
+10902646:
+  branch: 1 Oddział w Koszalinie
+10902659:
+  branch: 1 Oddział w Kołobrzegu
+10902662:
+  branch: 1 Oddział w Połczynie-Zdroju
+10902675:
+  branch: 1 Oddział w Chojnowie
+10902688:
+  branch: 1 Oddział w Lublinie
+10902705:
+  branch: 1 Oddział w Łodzi
+10902718:
+  branch: 1 Oddział w Olsztynie
+10902721:
+  branch: 2 Oddział w Chodzieży
+10902734:
+  branch: 10 Oddział w Poznaniu
+10902747:
+  branch: 2 Oddział w Gnieźnie
+10902750:
+  branch: 1 Oddział w Przemyślu
+10902763:
+  branch: 1 Oddział w Słupsku
+10902776:
+  branch: 1 Oddział w Suwałkach
+10902789:
+  branch: 1 Oddział w Augustowie
+10902792:
+  branch: 1 Oddział w Ełku
+10902806:
+  branch: 2 Oddział w Szczecinie
+10902819:
+  branch: 2 Oddział w Świdnicy
+10902835:
+  branch: Centrum Usług Oddziałowych
+10902848:
+  branch: Centrum Obsługi Oddziałów
+10902851:
+  branch: 35 Oddział w Warszawie
