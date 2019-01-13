@@ -1,0 +1,46 @@
+---
+name: Narodowy Bank Polski
+10100000:
+  branch: Centrala
+10100039:
+  branch: Centrala - Departament Systemu Płatniczego
+10100055:
+  branch: Centrala - B2B Collect
+10100068:
+  branch: Centrala - NBPCollect
+10100071:
+  branch: Centrala - B2B-2
+10101010:
+  branch: Oddział Okręgowy w Warszawie
+10101023:
+  branch: Oddział Okręgowy w Warszawie - Rozliczenia ZUS
+10101049:
+  branch: Oddział Okręgowy w Białymstoku
+10101078:
+  branch: Oddział Okręgowy w Bydgoszczy
+10101140:
+  branch: Oddział Okręgowy w Gdańsku
+10101212:
+  branch: Oddział Okręgowy w Katowicach
+10101238:
+  branch: Oddział Okręgowy w Kielcach
+10101270:
+  branch: Oddział Okręgowy w Krakowie
+10101339:
+  branch: Oddział Okręgowy w Lublinie
+10101371:
+  branch: Oddział Okręgowy w Łodzi
+10101397:
+  branch: Oddział Okręgowy w Olsztynie
+10101401:
+  branch: Oddział Okręgowy w Opolu
+10101469:
+  branch: Oddział Okręgowy w Poznaniu
+10101528:
+  branch: Oddział Okręgowy w Rzeszowie
+10101599:
+  branch: Oddział Okręgowy w Szczecinie
+10101674:
+  branch: Oddział Okręgowy we Wrocławiu
+10101704:
+  branch: Oddział Okręgowy w Zielonej Górze

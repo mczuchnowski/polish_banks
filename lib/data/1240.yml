@@ -1,0 +1,1182 @@
+---
+name: Bank Polska Kasa Opieki Spółka Akcyjna
+12400001:
+  branch: Centrala
+12400027:
+  branch: Centrala - Ośrodek Operacji Kartowych
+12400030:
+  branch: Centrala - Gospodarka Własna
+12400043:
+  branch: Centrala - Operacje Pionu Skarbu
+12400056:
+  branch: Centrala - Operacje Powiernicze
+12400069:
+  branch: Dom Maklerski Pekao
+12400072:
+  branch: Centrala - OOR 5
+12401011:
+  branch: XII Oddział w Warszawie
+12401024:
+  branch: II Oddział w Warszawie
+12401037:
+  branch: I Oddział w Warszawie
+12401040:
+  branch: III Oddział w Warszawie
+12401053:
+  branch: IV Oddział w Warszawie
+12401066:
+  branch: V Oddział w Warszawie
+12401079:
+  branch: XIV Oddział w Warszawie-Jankach
+12401082:
+  branch: VI Oddział w Warszawie
+12401095:
+  branch: X Oddział w Warszawie
+12401109:
+  branch: VII Oddział w Warszawie
+12401112:
+  branch: VIII Oddział w Warszawie
+12401125:
+  branch: IX Oddział w Warszawie
+12401138:
+  branch: XI Oddział w Warszawie
+12401141:
+  branch: II Oddział w Białej Podlaskiej
+12401154:
+  branch: I Oddział w Białymstoku
+12401170:
+  branch: I Oddział w Bielsku-Białej
+12401183:
+  branch: I Oddział w Bydgoszczy
+12401196:
+  branch: I Oddział w Inowrocławiu
+12401200:
+  branch: II Oddział w Chełmie
+12401213:
+  branch: I Oddział w Częstochowie
+12401226:
+  branch: I Oddział w Elblągu
+12401239:
+  branch: I Oddział w Gdyni
+12401242:
+  branch: Oddział w Sopocie ul.Reja 13/15
+12401255:
+  branch: III Oddział w Gdańsku
+12401268:
+  branch: II Oddział w Gdańsku
+12401271:
+  branch: IV Oddział w Gdańsku
+12401284:
+  branch: III Oddział w Gorzowie Wielkopolskim
+12401297:
+  branch: I Oddział w Zgorzelcu
+12401301:
+  branch: I Oddział w Jeleniej Górze
+12401314:
+  branch: II Oddział w Kaliszu
+12401327:
+  branch: I Oddział w Ostrowie Wielkopolskim
+12401330:
+  branch: I Oddział w Katowicach
+12401343:
+  branch: I Oddział w Gliwicach
+12401356:
+  branch: I Oddział w Jaworznie
+12401369:
+  branch: I Oddział w Rudzie Śląskiej
+12401372:
+  branch: I Oddział w Kielcach
+12401385:
+  branch: II Oddział w Ostrowcu Świętokrzyskim
+12401398:
+  branch: II Oddział w Starachowicach
+12401402:
+  branch: I Oddział w Skarżysku-Kamiennej
+12401415:
+  branch: I Oddział w Koninie
+12401428:
+  branch: I Oddział w Koszalinie
+12401431:
+  branch: I Oddział w Krakowie
+12401444:
+  branch: II Oddział w Krakowie
+12401457:
+  branch: II Oddział w Krośnie
+12401460:
+  branch: II Oddział w Sanoku
+12401473:
+  branch: I Oddział w Legnicy
+12401486:
+  branch: I Oddział w Lubinie
+12401499:
+  branch: I Oddział w Lesznie
+12401503:
+  branch: V Oddział w Lublinie
+12401516:
+  branch: II Oddział w Kraśniku
+12401529:
+  branch: II Oddział w Puławach
+12401532:
+  branch: I Oddział w Łomży
+12401545:
+  branch: V Oddział w Łodzi
+12401558:
+  branch: I Oddział w Nowym Sączu
+12401561:
+  branch: I Oddział w Gorlicach
+12401574:
+  branch: I Oddział w Nowym Targu
+12401587:
+  branch: I Oddział w Zakopanem
+12401590:
+  branch: I Oddział w Olsztynie
+12401604:
+  branch: I Oddział w Iławie
+12401617:
+  branch: I Oddział w Mrągowie
+12401620:
+  branch: I Oddział w Ostródzie
+12401633:
+  branch: I Oddział w Opolu
+12401646:
+  branch: I Oddział w Brzegu
+12401659:
+  branch: I Oddział w Kędzierzynie-Koźlu
+12401662:
+  branch: I Oddział w Kluczborku
+12401675:
+  branch: I Oddział w Nysie
+12401688:
+  branch: I Oddział w Prudniku
+12401691:
+  branch: I Oddział w Ostrołęce
+12401705:
+  branch: II Oddział w Pile
+12401718:
+  branch: II Oddział w Tomaszowie Mazowieckim
+12401721:
+  branch: II Oddział w Płocku
+12401734:
+  branch: II Oddział w Kutnie
+12401747:
+  branch: I Oddział w Poznaniu
+12401750:
+  branch: III Oddział w Poznaniu
+12401763:
+  branch: II Oddział w Poznaniu
+12401776:
+  branch: II Oddział w Przemyślu
+12401789:
+  branch: I Oddział w Radomiu
+12401792:
+  branch: I Oddział w Rzeszowie
+12401806:
+  branch: II Oddział w Mielcu
+12401819:
+  branch: II Oddział w Łowiczu
+12401822:
+  branch: I Oddział w Sochaczewie
+12401835:
+  branch: II Oddział w Słupsku
+12401848:
+  branch: I Oddział w Suwałkach
+12401851:
+  branch: I Oddział w Ełku
+12401864:
+  branch: VII Oddział w Szczecinie
+12401877:
+  branch: II Oddział w Stargardzie
+12401880:
+  branch: II Oddział w Świnoujściu
+12401907:
+  branch: II Oddział w Stalowej Woli
+12401910:
+  branch: I Oddział w Tarnowie
+12401923:
+  branch: I Oddział w Dębicy
+12401936:
+  branch: II Oddział w Toruniu
+12401949:
+  branch: II Oddział w Grudziądzu
+12401952:
+  branch: I Oddział w Wałbrzychu
+12401965:
+  branch: I Oddział w Kłodzku
+12401978:
+  branch: I Oddział w Świdnicy
+12401981:
+  branch: II Oddział we Włocławku
+12401994:
+  branch: I Oddział we Wrocławiu
+12402005:
+  branch: II Oddział w Zamościu
+12402018:
+  branch: I Oddział w Zielonej Górze
+12402021:
+  branch: I Oddział w Dzierżoniowie
+12402034:
+  branch: XIII Oddział w Warszawie
+12402063:
+  branch: XVIII Oddział w Warszawie
+12402076:
+  branch: Centrum Rozliczeniowe
+12402089:
+  branch: Oddział Xelion
+12402092:
+  branch: Centrala - OOR
+12402106:
+  branch: Zespół Rozliczeń Kart
+12402119:
+  branch: I Oddział w Otwocku
+12402122:
+  branch: VI Oddział w Gdańsku
+12402135:
+  branch: XVI Oddział w Warszawie
+12402148:
+  branch: I Oddział w Sulejówku
+12402151:
+  branch: XVII Oddział w Warszawie
+12402164:
+  branch: I Oddział w Błoniu
+12402177:
+  branch: I Oddział w Białej Podlaskiej
+12402180:
+  branch: I Oddział w Radzyniu Podlaskim
+12402193:
+  branch: I Oddział w Łosicach
+12402210:
+  branch: I Oddział w Siemiatyczach
+12402223:
+  branch: I Oddział w Chełmie
+12402236:
+  branch: I Oddział w Krasnymstawie
+12402249:
+  branch: I Oddział we Włodawie
+12402252:
+  branch: II Oddział w Częstochowie
+12402265:
+  branch: II Oddział w Elblągu
+12402278:
+  branch: I Oddział w Ostrowcu Świętokrzyskim
+12402281:
+  branch: I Oddział w Starachowicach
+12402294:
+  branch: III Oddział w Krakowie
+12402308:
+  branch: V Oddział w Krakowie
+12402311:
+  branch: I Oddział w Krośnie
+12402324:
+  branch: I Oddział w Brzozowie
+12402337:
+  branch: I Oddział w Jaśle
+12402340:
+  branch: I Oddział w Sanoku
+12402353:
+  branch: I Oddział w Iwoniczu-Zdroju
+12402366:
+  branch: I Oddział w Ustrzykach Dolnych
+12402379:
+  branch: I Oddział w Jedliczu
+12402382:
+  branch: III Oddział w Lublinie
+12402395:
+  branch: I Oddział w Kraśniku
+12402409:
+  branch: I Oddział w Lubartowie
+12402412:
+  branch: I Oddział w Puławach
+12402425:
+  branch: I Oddział w Rykach
+12402438:
+  branch: I Oddział w Bełżycach
+12402441:
+  branch: I Oddział w Bychawie
+12402454:
+  branch: I Oddział w Świdniku
+12402467:
+  branch: I Oddział w Poniatowej
+12402470:
+  branch: I Oddział w Lublinie
+12402483:
+  branch: III Oddział w Kraśniku
+12402496:
+  branch: II Oddział w Lublinie
+12402500:
+  branch: IV Oddział w Lublinie
+12402513:
+  branch: II Oddział w Świdniku
+12402526:
+  branch: VI Oddział w Lublinie
+12402539:
+  branch: VII Oddział w Łodzi
+12402542:
+  branch: II Oddział w Gorlicach
+12402555:
+  branch: II Oddział w Ostródzie
+12402568:
+  branch: I Oddział w Przemyślu
+12402571:
+  branch: I Oddział w Jarosławiu
+12402584:
+  branch: I Oddział w Lubaczowie
+12402597:
+  branch: I Oddział w Przeworsku
+12402601:
+  branch: I Oddział w Radymnie
+12402614:
+  branch: II Oddział w Rzeszowie
+12402627:
+  branch: I Oddział w Kolbuszowej
+12402630:
+  branch: I Oddział w Leżajsku
+12402643:
+  branch: I Oddział w Łańcucie
+12402656:
+  branch: I Oddział w Mielcu
+12402669:
+  branch: I Oddział w Ropczycach
+12402672:
+  branch: I Oddział w Strzyżowie
+12402685:
+  branch: I Oddział w Siedlcach
+12402698:
+  branch: I Oddział w Łukowie
+12402702:
+  branch: I Oddział w Mińsku Mazowieckim
+12402715:
+  branch: I Oddział w Sokołowie Podlaskim
+12402728:
+  branch: I Oddział w Garwolinie
+12402731:
+  branch: I Oddział w Węgrowie
+12402744:
+  branch: I Oddział w Tarnobrzegu
+12402757:
+  branch: I Oddział w Janowie Lubelskim
+12402760:
+  branch: I Oddział w Nisku
+12402773:
+  branch: I Oddział w Opatowie
+12402786:
+  branch: I Oddział w Sandomierzu
+12402799:
+  branch: I Oddział w Stalowej Woli
+12402803:
+  branch: I Oddział w Staszowie
+12402816:
+  branch: I Oddział w Zamościu
+12402829:
+  branch: I Oddział w Hrubieszowie
+12402832:
+  branch: I Oddział w Tomaszowie Lubelskim
+12402845:
+  branch: I Oddział w Biłgoraju
+12402858:
+  branch: I Oddział w Dęblinie
+12402861:
+  branch: I Oddział w Łaskarzewie
+12402874:
+  branch: I Oddział w Opolu Lubelskim
+12402887:
+  branch: XV Oddział w Warszawie
+12402890:
+  branch: II Oddział w Białymstoku
+12402904:
+  branch: I Oddział w Bielsku Podlaskim
+12402917:
+  branch: I Oddział w Lidzbarku Welskim
+12402920:
+  branch: V Oddział w Gdańsku
+12402933:
+  branch: V Oddział w Gdyni
+12402946:
+  branch: I Oddział w Kaliszu
+12402959:
+  branch: II Oddział w Katowicach
+12402962:
+  branch: IV Oddział w Katowicach
+12402975:
+  branch: III Oddział w Katowicach
+12402988:
+  branch: I Oddział w Sosnowcu
+12402991:
+  branch: II Oddział w Gliwicach
+12403002:
+  branch: IV Oddział w Krakowie
+12403015:
+  branch: I Oddział w Łodzi
+12403028:
+  branch: II Oddział w Łodzi
+12403031:
+  branch: VI Oddział w Łodzi
+12403044:
+  branch: I Oddział w Pabianicach
+12403057:
+  branch: I Oddział w Zgierzu
+12403060:
+  branch: III Oddział w Łodzi
+12403073:
+  branch: XI Oddział w Łodzi
+12403086:
+  branch: IX Oddział w Łodzi
+12403099:
+  branch: I Oddział w Głownie
+12403103:
+  branch: II Oddział w Opolu
+12403116:
+  branch: I Oddział w Piotrkowie Trybunalskim
+12403129:
+  branch: I Oddział w Opocznie
+12403132:
+  branch: I Oddział w Radomsku
+12403145:
+  branch: I Oddział w Tomaszowie Mazowieckim
+12403158:
+  branch: I Oddział w Bełchatowie
+12403161:
+  branch: I Oddział w Koluszkach
+12403174:
+  branch: I Oddział w Płocku
+12403187:
+  branch: I Oddział w Gostyninie
+12403190:
+  branch: I Oddział w Kutnie
+12403204:
+  branch: I Oddział w Sierpcu
+12403217:
+  branch: I Oddział w Żurominie
+12403220:
+  branch: IV Oddział w Poznaniu
+12403233:
+  branch: I Oddział w Swarzędzu
+12403246:
+  branch: I Oddział we Wrześni
+12403259:
+  branch: II Oddział w Radomiu
+12403262:
+  branch: I Oddział w Lipsku
+12403275:
+  branch: I Oddział w Sieradzu
+12403288:
+  branch: I Oddział w Łasku
+12403291:
+  branch: I Oddział w Wieluniu
+12403305:
+  branch: I Oddział w Zduńskiej Woli
+12403318:
+  branch: I Oddział w Poddębicach
+12403321:
+  branch: I Oddział w Skierniewicach
+12403334:
+  branch: I Oddział w Brzezinach
+12403347:
+  branch: I Oddział w Łowiczu
+12403350:
+  branch: I Oddział w Żyrardowie
+12403363:
+  branch: II Oddział w Suwałkach
+12403376:
+  branch: II Oddział w Ełku
+12403389:
+  branch: I Oddział we Włocławku
+12403392:
+  branch: I Oddział w Lipnie
+12403406:
+  branch: I Oddział w Rypinie
+12403419:
+  branch: VIII Oddział w Łodzi
+12403422:
+  branch: I Oddział w Konstantynowie
+12403435:
+  branch: I Oddział w Rzgowie
+12403448:
+  branch: X Oddział w Łodzi
+12403451:
+  branch: I Oddział w Tuszynie
+12403464:
+  branch: III Oddział we Wrocławiu
+12403477:
+  branch: I Oddział w Płońsku
+12403480:
+  branch: I Oddział w Nowym Dworze Mazowieckim
+12403493:
+  branch: II Oddział w Bydgoszczy
+12403507:
+  branch: I Oddział w Solcu Kujawskim
+12403510:
+  branch: II Oddział w Gdyni
+12403523:
+  branch: III Oddział w Gdyni
+12403536:
+  branch: IV Oddział w Gdyni
+12403549:
+  branch: I Oddział w Gorzowie Wielkopolskim
+12403552:
+  branch: I Oddział w Dębnie
+12403565:
+  branch: I Oddział w Międzychodzie
+12403578:
+  branch: I Oddział w Międzyrzeczu
+12403581:
+  branch: I Oddział w Myśliborzu
+12403594:
+  branch: I Oddział w Skwierzynie
+12403608:
+  branch: I Oddział w Słubicach
+12403611:
+  branch: I Oddział w Strzelcach Krajeńskich
+12403624:
+  branch: I Oddział w Sulęcinie
+12403637:
+  branch: I Oddział w Choszcznie
+12403640:
+  branch: II Oddział w Gorzowie Wielkopolskim
+12403653:
+  branch: II Oddział w Koszalinie
+12403666:
+  branch: I Oddział w Białogardzie
+12403679:
+  branch: I Oddział w Szczecinku
+12403682:
+  branch: I Oddział w Świdwinie
+12403695:
+  branch: I Oddział w Pile
+12403709:
+  branch: I Oddział w Czarnkowie
+12403712:
+  branch: I Oddział w Wałczu
+12403725:
+  branch: I Oddział w Wągrowcu
+12403738:
+  branch: I Oddział w Złotowie
+12403741:
+  branch: I Oddział w Trzciance
+12403754:
+  branch: I Oddział we Wronkach
+12403767:
+  branch: V Oddział w Poznaniu
+12403770:
+  branch: I Oddział w Słupsku
+12403783:
+  branch: I Oddział w Bytowie
+12403796:
+  branch: I Oddział w Człuchowie
+12403800:
+  branch: I Oddział w Lęborku
+12403813:
+  branch: I Oddział w Szczecinie
+12403826:
+  branch: III Oddział w Szczecinie
+12403839:
+  branch: I Oddział w Goleniowie
+12403842:
+  branch: I Oddział w Gryficach
+12403855:
+  branch: I Oddział w Gryfinie
+12403868:
+  branch: I Oddział w Kamieniu Pomorskim
+12403871:
+  branch: I Oddział w Łobzie
+12403884:
+  branch: I Oddział w Nowogardzie
+12403897:
+  branch: I Oddział w Pyrzycach
+12403901:
+  branch: I Oddział w Stargardzie
+12403914:
+  branch: I Oddział w Świnoujściu
+12403927:
+  branch: II Oddział w Szczecinie
+12403930:
+  branch: IV Oddział w Szczecinie
+12403943:
+  branch: I Oddział w Policach
+12403956:
+  branch: I Oddział w Chojnie
+12403969:
+  branch: V Oddział w Szczecinie
+12403972:
+  branch: VI Oddział w Szczecinie
+12403985:
+  branch: I Oddział w Trzebiatowie
+12403998:
+  branch: I Oddział w Grudziądzu
+12404009:
+  branch: I Oddział w Toruniu
+12404012:
+  branch: IV Oddział we Wrocławiu
+12404025:
+  branch: II Oddział we Wrocławiu
+12404038:
+  branch: II Oddział w Zielonej Górze
+12404083:
+  branch: Centrala - OOR 1
+12404096:
+  branch: Centrala - OOR 2
+12404100:
+  branch: Oddział w Warszawie ul.Puławska 233
+12404113:
+  branch: Oddział w Bielsku-Białej ul.Grażyńskiego 141
+12404126:
+  branch: Oddział w Kozach ul.Krakowska 2
+12404139:
+  branch: Oddział w Szczyrku ul.Beskidzka 4
+12404142:
+  branch: Oddział w Bielsku-Białej ul.R.Dmowskiego 16
+12404155:
+  branch: Oddział w Oświęcimiu ul.Władysława Jagiełły 12
+12404168:
+  branch: Oddział w Oświęcimiu ul.Wróblewskiego 1
+12404171:
+  branch: I Oddział w Oświęcimiu
+12404184:
+  branch: Oddział w Chełmku ul.Brzozowa 1
+12404197:
+  branch: Oddział w Wadowicach ul.Lwowska 9
+12404201:
+  branch: Oddział w Andrychowie ul.Krakowska 140a
+12404214:
+  branch: Oddział w Kalwarii Zebrzydowskiej ul.Rynek 2
+12404227:
+  branch: Oddział w Katowicach al.Wojciecha Korfantego 56
+12404230:
+  branch: Oddział w Chrzanowie al.Henryka 31
+12404243:
+  branch: Oddział w Krzeszowicach Rynek 34
+12404256:
+  branch: Oddział w Libiążu ul.Wojska Polskiego 2
+12404269:
+  branch: Oddział w Trzebini Rynek 23
+12404272:
+  branch: Oddział w Gliwicach ul.Prymasa Stefana Wyszyńskiego 6
+12404285:
+  branch: III Oddział w Gliwicach
+12404298:
+  branch: Oddział w Gliwicach ul.Kozielska 89
+12404302:
+  branch: Oddział w Knurowie ul.Kapelanów Wojskowych 17
+12404315:
+  branch: Oddział w Mysłowicach ul.Mikołowska 6
+12404331:
+  branch: Oddział w Tychach ul.Turyńska 100
+12404344:
+  branch: Oddział w Imielinie ul.Imielińska 87
+12404357:
+  branch: Oddział w Rybniku ul.3 Maja 10
+12404360:
+  branch: Oddział w Rybniku ul.Rymera 4
+12404373:
+  branch: Oddział w Żorach Rynek 4
+12404386:
+  branch: Oddział w Jastrzębiu Zdroju al.Piłsudskiego 2A
+12404399:
+  branch: Oddział w Rybniku ul. B. Chrobrego 8
+12404403:
+  branch: Oddział w Jejkowicach ul.Główna 38A
+12404416:
+  branch: Oddział w Kielcach al.1000-lecia Państwa  Polskiego 4
+12404432:
+  branch: Oddział w Krakowie ul.Józefińska 18
+12404445:
+  branch: Oddział w Krakowie ul.Rydlówka 5
+12404458:
+  branch: IX Oddział w Krakowie
+12404461:
+  branch: Oddział w Krakowie ul.Gronostajowa 3
+12404474:
+  branch: Oddział w Krakowie ul.Wielicka 76
+12404487:
+  branch: Oddział w Skawinie ul.Korabnicka 5A
+12404504:
+  branch: Oddział w Krakowie ul.Zakopiańska 58
+12404517:
+  branch: Oddział w Krakowie ul.Mały Płaszów 4
+12404520:
+  branch: Oddział w Świątnikach Górnych ul.Bruchnalskiego 4
+12404533:
+  branch: Oddział w Krakowie ul.Pijarska 1
+12404546:
+  branch: Oddział w Krakowie ul.Balicka 18A
+12404559:
+  branch: Oddział w Krakowie al. Mickiewicza 30
+12404562:
+  branch: VI Oddział w Krakowie
+12404575:
+  branch: Oddział w Krakowie ul.Kazimierza Wielkiego 75
+12404588:
+  branch: Oddział w Krakowie Os.Centrum B1
+12404591:
+  branch: Oddział w Krakowie Os.Bohaterów Września 39
+12404605:
+  branch: Oddział w Krakowie Os.Kolorowe 10
+12404618:
+  branch: XII Oddział w Krakowie
+12404621:
+  branch: Oddział w Krakowie Os.Na Wzgórzach 32
+12404634:
+  branch: Oddział w Krakowie Os.Tysiąclecia 42
+12404647:
+  branch: VII Oddział w Krakowie
+12404650:
+  branch: Oddział w Krakowie Rynek Główny 47
+12404663:
+  branch: X Oddział w Krakowie
+12404676:
+  branch: Oddział w Krakowie ul. Bora-Komorowskiego 25d
+12404689:
+  branch: XIII Oddział w Krakowie
+12404692:
+  branch: VIII Oddział w Krakowie
+12404706:
+  branch: Oddział w Krakowie ul.Wielopole 1
+12404719:
+  branch: Oddział w Krakowie al.Pokoju 1
+12404722:
+  branch: XI Oddział w Krakowie
+12404735:
+  branch: Oddział w Balicach ul.Kpt.M.Medweckiego 1
+12404748:
+  branch: Oddział w Nowym Sączu ul.Jagiellońska 26
+12404751:
+  branch: Oddział w Rzeszowie ul. Juliusza Słowackiego 5
+12404764:
+  branch: III Oddział w Rzeszowie
+12404777:
+  branch: Oddział w Rzeszowie ul.Hetmańska 58
+12404793:
+  branch: Oddział w Stalowej Woli ul.Wolności 17
+12404807:
+  branch: Oddział w Dębicy ul.Tadeusza Kościuszki 6
+12404810:
+  branch: II Oddział w Dębicy
+12404823:
+  branch: Oddział w Sosnowcu ul.Gen.Zaruskiego 11
+12404836:
+  branch: Oddział w Sosnowcu ul.Małachowskiego 3
+12404849:
+  branch: Oddział w Zabrzu pl.Warszawski 9
+12404852:
+  branch: Oddział w Kętach ul.Adama Mickiewicza 6B
+12404865:
+  branch: I Oddział w Kętach
+12404878:
+  branch: Oddział w Suchej Beskidzkiej ul.Adama Mickiewicza 48
+12404881:
+  branch: Oddział w Żywcu ul.Kościuszki 46
+12404894:
+  branch: I Oddział w Żywcu
+12404908:
+  branch: Oddział w Dąbrowie Górniczej ul.3 Maja 14
+12404911:
+  branch: Oddział w Zawierciu ul.Obrońców Poczty Gdańskiej 95
+12404924:
+  branch: Oddział w Dąbrowie Górniczej ul. Kościuszki 7a
+12404937:
+  branch: Oddział w Zawierciu ul.Powstańców Śląskich 13
+12404940:
+  branch: Oddział w Olkuszu ul.Króla Kazimierza Wielkiego 49
+12404953:
+  branch: Oddział w Kluczach ul.Zawierciańska 10
+12404966:
+  branch: Oddział w Bukownie ul.Nowa 1
+12404979:
+  branch: Oddział w Szczucinie Rynek 1
+12404982:
+  branch: Oddział w Jędrzejowie ul.Partyzantów 3
+12404995:
+  branch: Oddział w Sędziszowie ul.Przemysłowa 9
+12405006:
+  branch: Oddział w Końskich ul.Zamkowa 12
+12405019:
+  branch: Oddział w Stąporkowie ul.J.Piłsudskiego 101
+12405035:
+  branch: Oddział w Ostrowcu Świętokrzyskim ul.Wardyńskiego 11
+12405048:
+  branch: Oddział w Skarżysku-Kamiennej ul.Bankowa 8
+12405051:
+  branch: Oddział w Myślenicach Rynek 4
+12405064:
+  branch: Oddział w Myślenicach ul.Gałczyńskiego 9
+12405077:
+  branch: Oddział w Sułkowicach ul.1 Maja 70
+12405080:
+  branch: Oddział w Wieliczce ul.Władysława Sikorskiego 8
+12405107:
+  branch: Oddział w Niepołomicach Rynek 16
+12405110:
+  branch: Oddział w Gorlicach ul.Władysława Jagiełły 6
+12405123:
+  branch: Oddział w Limanowej ul.Jana Pawła II 19
+12405136:
+  branch: Oddział w Nowym Targu Rynek 4
+12405149:
+  branch: Oddział w Rabce Zdroju ul.Kilińskiego 1
+12405152:
+  branch: Oddział w Mszanie Dolnej ul.Spadochroniarzy 6
+12405165:
+  branch: Oddział w Zakopanem ul.Krupówki 19
+12405178:
+  branch: Oddział w Opolu pl.Wolności 3
+12405181:
+  branch: Oddział w Mielcu ul. Pisarka 10
+12405194:
+  branch: Oddział w Tarnowie ul.Wałowa 10
+12405208:
+  branch: Oddział w Bochni ul.Kazimierza Wielkiego 9
+12405211:
+  branch: Oddział w Białymstoku Rynek Kościuszki 7
+12405224:
+  branch: I Oddział w Sokółce
+12405237:
+  branch: Oddział w Mońkach al.Niepodległości 2a/4
+12405240:
+  branch: Oddział w Sokółce ul.Marsz.Józefa Piłsudskiego 5
+12405253:
+  branch: Oddział w Bielsku Podlaskim ul.Adama Mickiewicza 55
+12405266:
+  branch: Oddział w Ciechanowcu pl.3 Maja 25
+12405279:
+  branch: Oddział w Hajnówce ul.3 Maja 34
+12405282:
+  branch: Oddział w Ciechanowie pl.Jana Pawła II 8
+12405295:
+  branch: Oddział w Przasnyszu ul.3 Maja 13
+12405309:
+  branch: Oddział w Pułtusku ul.17 Sierpnia 37
+12405312:
+  branch: Oddział w Nasielsku ul.Elektronowa 8-10
+12405325:
+  branch: Oddział w Makowie Mazowieckim ul.Przasnyska 18
+12405338:
+  branch: Oddział w Działdowie pl.Mickiewicza 2/3
+12405341:
+  branch: Oddział w Nidzicy ul.Wolności 7
+12405354:
+  branch: Oddział w Gdyni ul.Tadeusza Wendy 7-9
+12405367:
+  branch: Oddział we Władysławowie ul.Gen.Hallera 1B
+12405370:
+  branch: Oddział w Helu ul.Wiejska 41
+12405383:
+  branch: Oddział w Wejherowie ul.Rybacka 12
+12405396:
+  branch: Oddział w Gdyni ul.Świętojańska 47
+12405400:
+  branch: Oddział w Gdańsku ul.Ogarna 116
+12405413:
+  branch: Oddział w Gdańsku ul.Stary Rynek Oliwski 16
+12405426:
+  branch: Oddział w Kolbudach ul.Wybickiego 32C
+12405439:
+  branch: VII Oddział w Gdańsku
+12405442:
+  branch: Oddział w Gdańsku ul.Jana Uphagena 27
+12405455:
+  branch: Oddział w Gdańsku ul.Garncarska 23
+12405468:
+  branch: Oddział w Pruszczu Gdańskim ul.Wojciecha Kossaka 1
+12405471:
+  branch: Oddział w Gdańsku ul.Władysława Cieszyńskiego 36
+12405484:
+  branch: Oddział w Gdańsku ul.Franciszka Rakoczego 17
+12405497:
+  branch: Oddział w Lublinie ul.Krakowskie Przedmieście 72
+12405501:
+  branch: Oddział w Lublinie ul. Nowowiejskiego 2
+12405514:
+  branch: Oddział w Bełżycach, Rynek 26
+12405527:
+  branch: Oddział w Łodzi al.Tadeusza Kościuszki 63
+12405530:
+  branch: Oddział w Pabianicach ul.Zamkowa 7
+12405543:
+  branch: Oddział w Łodzi ul.Piotrkowska 76
+12405556:
+  branch: Oddział w Łodzi ul. Wyszyńskiego 63
+12405569:
+  branch: Oddział w Łodzi ul.Aleksandrowska 38
+12405572:
+  branch: Oddział w Łodzi ul.Jana Karskiego 5
+12405585:
+  branch: Oddział w Łodzi ul.Sienkiewicza 85/87
+12405598:
+  branch: Oddział w Olsztynie ul. Erwina Kruka 11
+12405602:
+  branch: Oddział w Bartoszycach pl.Konstytucji 3 Maja 31A
+12405615:
+  branch: Oddział w Dobrym Mieście ul.Warszawska 12
+12405628:
+  branch: Oddział w Ostrowi Mazowieckiej ul.Grota-Roweckiego 1
+12405631:
+  branch: Oddział w Wyszkowie ul.Gen.Sowińskiego 81A
+12405644:
+  branch: Oddział w Płocku ul.Armii Krajowej 6
+12405657:
+  branch: Oddział w Płocku ul.Tysiąclecia 10
+12405660:
+  branch: Oddział w Grójcu ul.Bankowa 11
+12405673:
+  branch: Oddział w Warce ul.Franciszkańska 2
+12405686:
+  branch: Oddział w Tarczynie ul.Warszawska 11
+12405699:
+  branch: Oddział w Nowym Mieście nad Pilicą ul.11 Listopada 41
+12405703:
+  branch: Oddział w Radomiu ul.Tadeusza Kościuszki 2
+12405716:
+  branch: Oddział w Białobrzegach ul.Władysława Reymonta 46
+12405729:
+  branch: Oddział w Przysusze ul.Krakowska 33
+12405732:
+  branch: Oddział w Szydłowcu pl.M.Konopnickiej 7
+12405745:
+  branch: Oddział w Ełku ul.Juliusza Słowackiego 16
+12405758:
+  branch: Oddział w Olecku ul.11 Listopada 8
+12405761:
+  branch: Oddział w Szczytnie ul.Sienkiewicza 6A
+12405774:
+  branch: Oddział w Kętrzynie ul.Obrońców Westerplatte 1
+12405787:
+  branch: Oddział w Giżycku ul.Dąbrowskiego 12
+12405790:
+  branch: Oddział w Słupsku ul.Jana Kilińskiego 45A
+12405804:
+  branch: Oddział w Lubochni ul.Tomaszowska 9
+12405817:
+  branch: Oddział w Czersku ul.J.Ostrowskiego 2
+12405820:
+  branch: Oddział w Brusach ul.Jana Pawła II 2
+12405833:
+  branch: Oddział w Kraśniku ul.Kościuszki 5
+12405846:
+  branch: Oddział w Kolnie ul.Wojska Polskiego 46
+12405859:
+  branch: Oddział w Myszyńcu pl.Wolności 60
+12405862:
+  branch: Oddział w Kozienicach ul.Batalionów Chłopskich 32/34
+12405875:
+  branch: Oddział w Zwoleniu ul.Jagiełły 17A
+12405888:
+  branch: Oddział w Dąbrowie Białostockiej pl.Kościuszki 1
+12405891:
+  branch: Oddział w Suwałkach ul.Gen.T.Kościuszki 56
+12405905:
+  branch: Oddział w Tomaszowie Lubelskim ul.Lwowska 80
+12405918:
+  branch: XXI Oddział w Warszawie
+12405921:
+  branch: Oddział w Warszawie ul.Grójecka 74
+12405934:
+  branch: Oddział w Warszawie ul. Grzybowska 53/57
+12405947:
+  branch: Oddział w Gdyni ul.Kartuska 9
+12405950:
+  branch: Oddział w Warszawie al.Jana Pawła II 23
+12405963:
+  branch: XXVI Oddział w Warszawie
+12405976:
+  branch: Oddział w Warszawie ul.Krakowskie Przedmieście 1
+12405989:
+  branch: Oddział w Warszawie ul.Marszałkowska 111
+12405992:
+  branch: XIX Oddział w Warszawie
+12406003:
+  branch: Oddział w Warszawie ul. Krucza 6/14
+12406016:
+  branch: Oddział w Warszawie Al.Jerozolimskie 2
+12406029:
+  branch: XXIX Oddział w Warszawie
+12406045:
+  branch: Oddział w Warszawie ul.Płocka 17
+12406058:
+  branch: XXV Oddział w Warszawie
+12406061:
+  branch: Oddział w Warszawie ul.Hanki Czaki 2
+12406074:
+  branch: Oddział w Warszawie ul.Ks.Ignacego Kłopotowskiego 15
+12406087:
+  branch: Oddział w Warszawie ul. Kondratowicza 22
+12406090:
+  branch: Oddział w Warszawie ul. Światowida 47
+12406104:
+  branch: Oddział w Warszawie ul.Targowa 81
+12406117:
+  branch: Oddział w Warszawie ul.Modlińska 199
+12406120:
+  branch: XXII Oddział w Warszawie
+12406133:
+  branch: Oddział w Warszawie ul.Grochowska 124/126
+12406146:
+  branch: Oddział w Warszawie ul. Targowa 62
+12406159:
+  branch: Oddział w Warszawie ul.Ostrobramska 101A
+12406162:
+  branch: Oddział w Warszawie al.Gen.A.Chruściela 28
+12406175:
+  branch: Oddział w Warszawie ul.Jasna 1
+12406188:
+  branch: Oddział w Warszawie ul.Tadeusza Czackiego 21/23
+12406191:
+  branch: XX Oddział w Warszawie
+12406205:
+  branch: XXVIII Oddział w Warszawie
+12406218:
+  branch: Oddział w Warszawie Al.Jerozolimskie 65/79
+12406221:
+  branch: Oddział w Warszawie ul.Żwirki i Wigury 1
+12406234:
+  branch: XXIV Oddział w Warszawie
+12406247:
+  branch: Oddział w Warszawie ul.Emilii Plater 53
+12406250:
+  branch: Oddział w Warszawie ul.Migdałowa 4
+12406263:
+  branch: Oddział w Warszawie ul.Nowoursynowska 166
+12406276:
+  branch: XXVII Oddział w Warszawie
+12406289:
+  branch: Oddział w Warszawie ul. Bonifacego 92
+12406292:
+  branch: Oddział w Warszawie ul.Towarowa 25
+12406306:
+  branch: Oddział w Warszawie ul.Wolumen 18
+12406319:
+  branch: Oddział w Warszawie ul.Biała 4
+12406322:
+  branch: Oddział w Warszawie ul.Nowolipki 2,2A
+12406335:
+  branch: Oddział w Wołominie ul.Miła 8/12
+12406348:
+  branch: Oddział w Grodzisku Mazowieckim ul.Armii Krajowej 16
+12406351:
+  branch: Oddział w Piasecznie ul.Jana Pawła II 2
+12406364:
+  branch: I Oddział w Piasecznie
+12406377:
+  branch: Oddział w Górze Kalwarii ul.Wierzbowskiego 3
+12406380:
+  branch: Oddział w Pruszkowie al.Wojska Polskiego 23
+12406393:
+  branch: Oddział w Błoniu ul.Poznańska 4
+12406407:
+  branch: Oddział w Piastowie ul.Dworcowa 1
+12406410:
+  branch: Oddział w Warszawie ul.Malczewskiego 54
+12406423:
+  branch: Oddział w Warszawie ul.Puławska 54/56
+12406436:
+  branch: XXIII Oddział w Warszawie
+12406449:
+  branch: Oddział w Bielsku-Białej ul.Ks.Stanisława Stojałowskiego 23
+12406452:
+  branch: Oddział w Bydgoszczy ul.Trybunalska 2
+12406465:
+  branch: Oddział w Nakle nad Notecią ul.Gen.Henryka Dąbrowskiego 17-23
+12406478:
+  branch: Oddział w Bydgoszczy ul.Jagiellońska 34
+12406481:
+  branch: Oddział w Bydgoszczy ul.Eugeniusza Kwiatkowskiego 2
+12406494:
+  branch: Oddział w Gorzowie Wielkopolskim ul.Fabryczna 12
+12406508:
+  branch: Oddział w Kołobrzegu ul.Ppor.Edmunda Łopuskiego 6
+12406511:
+  branch: Oddział w Golczewie ul.Zwycięstwa 22
+12406524:
+  branch: Oddział w Poznaniu pl.Wolności 18
+12406537:
+  branch: VI Oddział w Poznaniu
+12406540:
+  branch: Oddział w Przeźmierowie ul.Rynkowa 75C
+12406553:
+  branch: Oddział w Nowym Tomyślu ul.Adama Mickiewicza 15
+12406566:
+  branch: Oddział w Poznaniu ul.Głogowska 132/140
+12406579:
+  branch: Oddział w Poznaniu ul. Grunwaldzka 165
+12406582:
+  branch: Oddział w Poznaniu ul.Pamiątkowa 17
+12406595:
+  branch: Oddział w Poznaniu Stary Rynek 97/98
+12406609:
+  branch: Oddział w Poznaniu ul.Roosevelta 18
+12406612:
+  branch: VII Oddział w Poznaniu
+12406625:
+  branch: Oddział w Poznaniu ul.Grunwaldzka 21
+12406638:
+  branch: Oddział w Poznaniu Al.Solidarności 46
+12406641:
+  branch: I Oddział w Przeźmierowie ul.Rynkowa 75C
+12406654:
+  branch: Oddział w Szczecinie ul.Smolańska 4
+12406667:
+  branch: Oddział w Szczecinie Pl. Orła Białego 3
+12406670:
+  branch: Oddział we Wrocławiu pl.Powstańców Śląskich 9
+12406683:
+  branch: Oddział we Wrocławiu ul.Komandorska 118-120
+12406696:
+  branch: Oddział we Wrocławiu ul. Sucha 1
+12406700:
+  branch: Oddział w Kudowie Zdroju ul.Zdrojowa 18
+12406713:
+  branch: Oddział w Polanicy Zdroju ul.Zdrojowa 25
+12406726:
+  branch: Oddział we Wrocławiu ul.Gen.Jana Henryka  Dąbrowskiego 42
+12406739:
+  branch: Oddział we Wrocławiu ul.Świeradowska 51/57
+12406742:
+  branch: VIII Oddział we Wrocławiu
+12406755:
+  branch: Oddział we Wrocławiu ul.Karola Olszewskiego 75/77
+12406768:
+  branch: Oddział we Wrocławiu ul. Ruska 51A
+12406771:
+  branch: Oddział w Środzie Śląskiej ul.Malczycka 1
+12406784:
+  branch: VI Oddział we Wrocławiu
+12406797:
+  branch: VII Oddział we Wrocławiu
+12406801:
+  branch: V Oddział we Wrocławiu
+12406814:
+  branch: Oddział we Wrocławiu Rynek 1
+12406827:
+  branch: Oddział we Wrocławiu ul.Horbaczewskiego 4-6
+12406830:
+  branch: Oddział we Wrocławiu ul.Jedności Narodowej 203
+12406843:
+  branch: Oddział w Zielonej Górze ul.Podgórna 9A
+12406856:
+  branch: Oddział w Żaganiu ul.Przyjaciół Żołnierza 24
+12406869:
+  branch: Oddział w Gubinie ul.Nowa 2
+12406872:
+  branch: Oddział w Rogoźnie ul.Kościuszki 37
+12406885:
+  branch: Oddział w Toruniu ul. Wielkie Garbary 7
+12406898:
+  branch: Oddział w Kościanie Rynek 32
+12406902:
+  branch: Oddział w Śremie ul.Przemysłowa 1
+12406915:
+  branch: Oddział w Kruszwicy ul.Niepodległości 13
+12406928:
+  branch: Oddział w Ostrzeszowie ul.Piastowska 16A
+12406931:
+  branch: Oddział w Legnicy Rynek 14/1B
+12406944:
+  branch: Oddział w Złocieńcu ul.Bohaterów Warszawy 19
+12406957:
+  branch: Centrala - OOR 3
+12406960:
+  branch: Centrala - OOR 4
+12406973:
+  branch: Oddział w Warszawie ul.Żwirki i Wigury 31
+12406986:
+  branch: Biuro Monitoringu i Rozliczeń Kartowych
+12406999:
+  branch: Oddział w Tychach ul. Wyszyńskiego 27
