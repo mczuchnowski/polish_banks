@@ -3,7 +3,7 @@ require 'errors/bank_not_found'
 require 'errors/unsupported_country'
 
 class PolishBank
-  attr_reader :bank, :branch
+  attr_reader :name, :branch
 
   def initialize(iban)
     @iban = iban
