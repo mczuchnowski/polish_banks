@@ -12,7 +12,7 @@ FileUtils.mkdir_p(DATA_DIR_NAME) unless File.directory?(DATA_DIR_NAME)
 file = File.open(FILE_NAME, 'r', encoding: 'CP852')
 
 file.each_line do |row|
-  row = row.encode('UTF-8').split("\t").map(&:strip)
+  row = row.encode(Encoding.find('UTF-8'), {invalid: :replace, undef: :replace, replace: ''}).split("\t").map(&:strip)
 
   branch_identifier = row[BRANCH_IDENTIFIER_COL]
   bank_identifier = branch_identifier.slice(0, 4)
