@@ -1,5 +1,5 @@
 ---
-name: Bank BGŻ BNP Paribas Spółka Akcyjna
+name: BNP Paribas Bank Polska Spółka Akcyjna
 16000003:
   branch: Centrala
 16000016:
@@ -12,8 +12,6 @@ name: Bank BGŻ BNP Paribas Spółka Akcyjna
   branch: Oddział w Zakopanem ul. Chramcówki 33
 16001055:
   branch: Oddział w Katowicach ul. Chorzowska 6
-16001068:
-  branch: Oddział w Warszawie ul. Fredry 8
 16001071:
   branch: Filia ds. Obsługi Płatności Masowych w Krakowie ul.Armii Krajowej 28
 16001084:
@@ -63,7 +61,7 @@ name: Bank BGŻ BNP Paribas Spółka Akcyjna
 16001316:
   branch: Oddział w Olsztynie ul. Mickiewicza 9
 16001329:
-  branch: Oddział w Opolu ul. Ozimska 25
+  branch: Oddział w Opolu ul. Krakowska 26
 16001332:
   branch: Oddział w Rzeszowie al. Piłsudskiego 32
 16001345:
@@ -72,8 +70,6 @@ name: Bank BGŻ BNP Paribas Spółka Akcyjna
   branch: Oddział w Nowym Targu ul. Waksmundzka 30
 16001361:
   branch: Oddział w Łodzi ul. Piotrkowska 189/191
-16001374:
-  branch: Oddział w Warszawie Al. Jerozolimskie 56C
 16001387:
   branch: Oddział w Szczecinie ul. Rayskiego 1
 16001390:

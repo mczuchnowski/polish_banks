@@ -1,9 +1,9 @@
 ---
-name: Bank BGŻ BNP Paribas Spółka Akcyjna
+name: BNP Paribas Bank Polska Spółka Akcyjna
 17500009:
-  branch: Centrala
+  branch: Oddział w Warszawie ul. Grzybowska 78
 17500012:
-  branch: Bankowość Detaliczna w Warszawie Al.Jerozolimskie 179 - Centrala
+  branch: Oddział w Warszawie Al. Jerozolimskie 179
 17500025:
   branch: Centrala - Rachunki Płac
 17500038:
@@ -21,25 +21,25 @@ name: Bank BGŻ BNP Paribas Spółka Akcyjna
 17500126:
   branch: Oddział w Warszawie
 17500139:
-  branch: Raiffeisen Bank Polska S.A.
+  branch: BNP Paribas Bank Polska S.A.
 17501019:
   branch: Oddział w Poznaniu ul.Marcelińska 90
 17501022:
   branch: Oddział w Gdyni
 17501035:
-  branch: Oddział w Katowicach
+  branch: Oddział w Katowicach ul. Sowińskiego 46
 17501048:
   branch: Oddział w Krakowie
 17501051:
-  branch: Oddział w Bydgoszczy
+  branch: Oddział w Bydgoszczy ul. Poznańska 3
 17501064:
   branch: Oddział we Wrocławiu
 17501077:
-  branch: Oddział w Szczecinie
+  branch: Oddział w Szczecinie Al. Jana Pawła II 3/4
 17501080:
-  branch: Oddział w Białymstoku
+  branch: Oddział w Białymstoku ul. Branickiego 17A
 17501093:
-  branch: Oddział w Łodzi
+  branch: Oddział w Łodzi Al. Śmigłego Rydza 20
 17501107:
   branch: Oddział w Lublinie
 17501110:
@@ -55,27 +55,27 @@ name: Bank BGŻ BNP Paribas Spółka Akcyjna
 17501165:
   branch: Oddział w Kaliszu Al.Wolności 12
 17501178:
-  branch: Oddział w Bielsku-Białej ul.Ks.Stojałowskiego 50
+  branch: Oddział w Bielsku-Białej ul. Cechowa 22
 17501181:
-  branch: Oddział w Sosnowcu ul.Modrzejowska 32A
+  branch: Oddział w Katowicach ul. Sowińskiego 46
 17501194:
-  branch: Oddział w Opolu
+  branch: Oddział w Opolu ul. Oleska 6
 17501208:
-  branch: Oddział w Toruniu ul.Bydgoska 1/3
+  branch: Oddział w Bydgoszczy ul. Poznańska 3
 17501211:
-  branch: Oddział w Częstochowie ul.Jasnogórska 96
+  branch: Oddział w Częstochowie ul. Jasnogórska 96
 17501224:
-  branch: Oddział w Rzeszowie
+  branch: Oddział w Rzeszowie Al. Rejtana 23
 17501237:
-  branch: Oddział w Gliwicach ul.Dolnych Wałów 7
+  branch: Oddział w Katowicach ul. Sowińskiego 46
 17501240:
-  branch: Oddział w Nowym Sączu ul.Rejtana 10
+  branch: Oddział w Nowym Sączu ul. Rejtana 10
 17501253:
   branch: Oddział w Radomiu ul.Okulickiego 88
 17501266:
   branch: Oddział w Jeleniej Górze ul.Grodzka 12
 17501279:
-  branch: Oddział w Lubinie ul.Piłsudskiego 12
+  branch: Oddział w Lubinie ul. Piłsudskiego 12
 17501282:
   branch: Oddział w Gorzowie Wielkopolskim ul.Pionierów 3-5
 17501295:
@@ -87,19 +87,19 @@ name: Bank BGŻ BNP Paribas Spółka Akcyjna
 17501325:
   branch: Oddział w Gdańsku
 17501338:
-  branch: Oddział w Tarnowie ul.Szkotnik 2B
+  branch: Oddział w Tarnowie ul. Szkotnik 2B
 17501341:
   branch: Oddział w Stalowej Woli
 17501354:
   branch: Oddział w Olsztynie ul.Dworcowa 3
 17501367:
-  branch: Oddział w Białej Podlaskiej ul.Sidorska 59
+  branch: Oddział w Warszawie ul. Grzybowska 78
 17501370:
-  branch: Oddział w Sieradzu ul.Jana Pawła II 52
+  branch: Oddział w Sieradzu ul. Jana Pawła II 52
 17501383:
   branch: Oddział w Koninie Al.1 Maja 6
 17501396:
-  branch: Oddział w Koszalinie ul.Rynek Staromiejski 4
+  branch: Oddział w Koszalinie Rynek Staromiejski 4
 17501400:
   branch: Oddział w Bełchatowie ul.Armii Krajowej 2
 17501413:
@@ -107,17 +107,17 @@ name: Bank BGŻ BNP Paribas Spółka Akcyjna
 17501426:
   branch: Oddział w Zamościu ul.Piłsudskiego 31
 17501439:
-  branch: Oddział w Kutnie ul.Królewska 14
+  branch: Oddział w Warszawie ul. Grzybowska 78
 17501442:
-  branch: Oddział w Płocku
+  branch: Oddział w Warszawie ul. Grzybowska 78
 17501455:
-  branch: Oddział we Włocławku
+  branch: Oddział w Warszawie ul. Grzybowska 78
 17501468:
   branch: Oddział w Puławach ul.Centralna 17
 17501471:
   branch: Oddział w Ostrowcu Świętokrzyskim ul.Rynek 10
 17501484:
-  branch: Oddział w Słupsku pl.Zwycięstwa 11
+  branch: Oddział w Słupsku pl. Zwycięstwa 11
 17501497:
   branch: Centrala - Biuro Maklerskie
 17501501:
