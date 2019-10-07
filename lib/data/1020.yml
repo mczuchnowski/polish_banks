@@ -48,6 +48,8 @@ name: Powszechna Kasa Oszczędności Bank Polski Spółka Akcyjna
   branch: Centrum Zarządzania Gotówką Zespół CZG w Białymstoku
 10200263:
   branch: Centrala-rachunki Banku
+10200276:
+  branch: Oddział w Słowacji/pobočka zahraničnej banky
 10201013:
   branch: Oddział 1 w Warszawie
 10201026:
@@ -334,5 +336,3 @@ name: Powszechna Kasa Oszczędności Bank Polski Spółka Akcyjna
   branch: Oddział w Republice Czeskiej/Czech Branch
 10205646:
   branch: Rachunek rozliczeniowy
-10200276:
-  branch: Oddział w Słowacji/pobočka zahraničnej banky
