@@ -1,6 +1,6 @@
 # PolishBanks - A Polish bank lookup Ruby gem.
 
-Polish bank name and branch can be read from the IBAN or accont number.
+Polish bank name and branch can be read from the IBAN or accont number
 
 `PLkk BBBB BBBB MMMM MMMM MMMM MMMM`
 
@@ -28,13 +28,13 @@ Or install on your own to test it in irb:
 
 You can use either IBAN or just account number - as string or as integer. If you don't provide the whole account number, the gem will try to determine at least the bank name. Non-Polish ibans will raise a `UnsupportedCountry` exception.
 
-    require 'credit_card_bins'
+    require 'polish_banks'
 
     iban = "PL9912406999"
     bank = PolishBank.new(iban)
 
-    bank.name #"Bank Polska Kasa Opieki Spółka Akcyjna"
-    bank.branch #"Oddział w Tychach ul. Wyszyńskiego 27"
+    bank.name # "Bank Polska Kasa Opieki Spółka Akcyjna"
+    bank.branch # "Oddział w Tychach ul. Wyszyńskiego 27"
 
 If bank is not found, the gem will raise a `BankNotFound` exception.
 
