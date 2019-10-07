@@ -40,6 +40,8 @@ If bank is not found, the gem will raise a `BankNotFound` exception.
 
 ## Contributing
 
+NOTE: To properly update bank lists, remove the /lib/data folder and run the data_generator.
+
 1. Fork
 2. Create a feature branch
 3. Commit changes
