@@ -10,4 +10,5 @@ Gem::Specification.new do |s|
   s.homepage    = 'https://github.com/mczuchnowski/polish_banks'
   s.license     = 'MIT'
   s.add_development_dependency 'rspec', '~> 3.0'
+  s.add_development_dependency 'simplecov'
 end
