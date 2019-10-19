@@ -1,4 +1,6 @@
-# PolishBanks - A Polish bank lookup Ruby gem.
+[![Maintainability](https://api.codeclimate.com/v1/badges/a5433c0ccc67049740e7/maintainability)](https://codeclimate.com/github/mczuchnowski/polish_banks/maintainability)
+
+# PolishBanks - A Polish bank lookup Ruby gem
 
 Polish bank name and branch can be read from the IBAN or account number
 
