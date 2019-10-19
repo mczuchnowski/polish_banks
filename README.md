@@ -1,6 +1,6 @@
 # PolishBanks - A Polish bank lookup Ruby gem.
 
-Polish bank name and branch can be read from the IBAN or accont number
+Polish bank name and branch can be read from the IBAN or account number
 
 `PLkk BBBB BBBB MMMM MMMM MMMM MMMM`
 
