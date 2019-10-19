@@ -1,4 +1,4 @@
-[![Maintainability](https://api.codeclimate.com/v1/badges/a5433c0ccc67049740e7/maintainability)](https://codeclimate.com/github/mczuchnowski/polish_banks/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/a5433c0ccc67049740e7/maintainability)](https://codeclimate.com/github/mczuchnowski/polish_banks/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/a5433c0ccc67049740e7/test_coverage)](https://codeclimate.com/github/mczuchnowski/polish_banks/test_coverage) [![Build Status](https://travis-ci.com/mczuchnowski/polish_banks.svg?branch=master)](https://travis-ci.com/mczuchnowski/polish_banks)
 
 # PolishBanks - A Polish bank lookup Ruby gem
 
