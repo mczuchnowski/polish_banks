@@ -35,6 +35,7 @@ class PolishBank
 
   def check_country
     return if integer?(country_code)
+
     raise UnsupportedCountry, "Iban #{iban} is not Polish" if country_code.casecmp('PL') != 0
   end
 
