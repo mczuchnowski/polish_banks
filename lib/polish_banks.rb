@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'yaml'
 require 'errors/bank_not_found'
 require 'errors/unsupported_country'

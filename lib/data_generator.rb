@@ -1,10 +1,12 @@
+#!/usr/bin/env ruby
+
 require 'fileutils'
 require 'yaml'
 
 BANK_NAME_COL = 1
 BRANCH_IDENTIFIER_COL = 4
 BRANCH_NAME_COL = 5
-DATA_DIR_NAME = 'data'.freeze
+DATA_DIR_NAME = 'data'
 FILENAMES = ['plewibnra.txt', 'PlainDok.txt'].freeze
 
 filename = FILENAMES.detect { |file| File.exist?(file) }
