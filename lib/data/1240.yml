@@ -639,7 +639,7 @@ name: Bank Polska Kasa Opieki Spółka Akcyjna
 12404214:
   branch: Oddział w Kalwarii Zebrzydowskiej ul.Rynek 2
 12404227:
-  branch: Oddział w Katowicach al.Wojciecha Korfantego 56
+  branch: Oddział w Katowicach ul. Chorzowska 1
 12404230:
   branch: Oddział w Chrzanowie al.Henryka 31
 12404243:
@@ -853,7 +853,7 @@ name: Bank Polska Kasa Opieki Spółka Akcyjna
 12405341:
   branch: Oddział w Nidzicy ul.Wolności 7
 12405354:
-  branch: Oddział w Gdyni ul.Tadeusza Wendy 7-9
+  branch: Oddział w Gdyni al. Zwycięstwa 245 lok. 4
 12405367:
   branch: Oddział we Władysławowie ul.Gen.Hallera 1B
 12405370:
@@ -943,7 +943,7 @@ name: Bank Polska Kasa Opieki Spółka Akcyjna
 12405790:
   branch: Oddział w Słupsku ul.Jana Kilińskiego 45A
 12405804:
-  branch: Oddział w Lubochni ul.Tomaszowska 9
+  branch: Oddział w Tomaszowie Mazowieckim ul. Mościckiego 31/33
 12405817:
   branch: Oddział w Czersku ul.J.Ostrowskiego 2
 12405820:
@@ -1015,7 +1015,7 @@ name: Bank Polska Kasa Opieki Spółka Akcyjna
 12406162:
   branch: Oddział w Warszawie al.Gen.A.Chruściela 28
 12406175:
-  branch: Oddział w Warszawie ul.Jasna 1
+  branch: Oddział w Warszawie ul. Krucza 50
 12406188:
   branch: Oddział w Warszawie ul.Tadeusza Czackiego 21/23
 12406191:
@@ -1180,3 +1180,5 @@ name: Bank Polska Kasa Opieki Spółka Akcyjna
   branch: Biuro Monitoringu i Rozliczeń Kartowych
 12406999:
   branch: Oddział w Tychach ul. Wyszyńskiego 27
+12400102:
+  branch: Pekao Bank Hipoteczny S.A.
