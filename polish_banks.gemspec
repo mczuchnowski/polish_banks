@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = 'polish_banks'
-  s.version     = '1.1.1'
-  s.date        = '2019-12-27'
+  s.version     = '1.1.2'
+  s.date        = '2020-05-10'
   s.summary     = 'Polish bank detector'
   s.description = 'Get information about a Polish bank based on IBAN or account number.'
   s.authors     = ['Maciej Czuchnowski']
