@@ -7,7 +7,7 @@ RSpec.describe PolishBank do
   subject { described_class.new(iban) }
 
   describe "standard iban check" do
-    let(:iban) { "PL9912406999" }
+    let(:iban) { "PL61109010140000071219812874" }
 
     it "detects bank name" do
       expect(subject.name).to be_a String
@@ -20,7 +20,7 @@ RSpec.describe PolishBank do
     end
 
     context "with only partial match" do
-      let(:iban) { "PL9912406666" }
+      let(:iban) { "PL6110909999" }
 
       it "detects bank name" do
         expect(subject.name).to be_a String
@@ -34,7 +34,7 @@ RSpec.describe PolishBank do
     end
 
     context "with special characters" do
-      let(:iban) { "99-1240 6999" }
+      let(:iban) { "61(1090_1014+0000?0712/1981-2874" }
 
       it "detects bank name" do
         expect(subject.name).to be_a String
@@ -49,7 +49,7 @@ RSpec.describe PolishBank do
   end
 
   describe "account number check" do
-    let(:iban) { "9912406999" }
+    let(:iban) { "61109010140000071219812874" }
 
     it "detects bank name" do
       expect(subject.name).to be_a String
@@ -64,7 +64,7 @@ RSpec.describe PolishBank do
 
   describe "error raising" do
     context "foreign iban" do
-      let(:iban) { "DE9912406999" }
+      let(:iban) { "DE61109010140000071219812874" }
 
       it "raises UnsupportedCountry error" do
         expect { subject }.to raise_error(UnsupportedCountry, "Iban #{iban} is not Polish")
