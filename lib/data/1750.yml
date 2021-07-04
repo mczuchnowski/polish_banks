@@ -27,9 +27,9 @@ name: BNP Paribas Bank Polska Spółka Akcyjna
 17501022:
   branch: Oddział w Gdyni
 17501035:
-  branch: Oddział w Katowicach ul. Sowińskiego 46
+  branch: BNP Paribas Bank Polska S.A.
 17501048:
-  branch: Oddział w Krakowie
+  branch: Oddział w Krakowie ul. Armii Krajowej 28
 17501051:
   branch: Oddział w Bydgoszczy Pl. Kościeleckich 3
 17501064:
@@ -43,7 +43,7 @@ name: BNP Paribas Bank Polska Spółka Akcyjna
 17501107:
   branch: Oddział w Lublinie ul. 1 Maja 16A
 17501110:
-  branch: Oddział w Kielcach
+  branch: Oddział w Kielcach ul. H. Sienkiewicza 47
 17501123:
   branch: Centrum Rozliczeniowe
 17501136:
@@ -53,7 +53,7 @@ name: BNP Paribas Bank Polska Spółka Akcyjna
 17501152:
   branch: Oddział w Gdańsku ul.Rajska 4
 17501165:
-  branch: Oddział w Kaliszu Al.Wolności 12
+  branch: Oddział w Kaliszu ul. Główny Rynek 15
 17501178:
   branch: Oddział w Bielsku-Białej ul. Cechowa 22
 17501181:
@@ -73,25 +73,25 @@ name: BNP Paribas Bank Polska Spółka Akcyjna
 17501253:
   branch: Oddział w Radomiu ul.Okulickiego 88
 17501266:
-  branch: Oddział w Jeleniej Górze ul.Grodzka 12
+  branch: Oddział w Jeleniej Górze ul. Bankowa 34
 17501279:
   branch: Oddział w Lubinie ul. Piłsudskiego 12
 17501282:
   branch: Oddział w Poznaniu Al. Solidarności 46
 17501295:
-  branch: Oddział w Piotrkowie Trybunalskim ul.Słowackiego 77
+  branch: Oddział w Bełchatowie ul. Kościuszki 14
 17501309:
   branch: Oddział w Wałbrzychu ul.Kusocińskiego 17/19
 17501312:
   branch: Centrum Rozliczeń Płatności Masowych
 17501325:
-  branch: Oddział w Gdańsku
+  branch: Oddział w Gdańsku ul. Rajska 4
 17501338:
   branch: Oddział w Tarnowie ul. Krakowska 35
 17501341:
   branch: Oddział w Stalowej Woli
 17501354:
-  branch: Oddział w Olsztynie ul.Dworcowa 3
+  branch: Oddział w Olsztynie Al. J. Piłsudskiego 11/17
 17501367:
   branch: Oddział w Warszawie ul. Grzybowska 78
 17501370:
@@ -99,9 +99,9 @@ name: BNP Paribas Bank Polska Spółka Akcyjna
 17501383:
   branch: Oddział w Poznaniu Al. Solidarności 46
 17501396:
-  branch: Oddział w Koszalinie Rynek Staromiejski 4
+  branch: Oddział w Koszalinie Al. Armii Krajowej 8
 17501400:
-  branch: Oddział w Bełchatowie ul.Armii Krajowej 2
+  branch: Oddział w Bełchatowie ul. Kościuszki 14
 17501413:
   branch: Oddział w Krośnie ul.Niepodległości 16B
 17501426:
@@ -121,7 +121,7 @@ name: BNP Paribas Bank Polska Spółka Akcyjna
 17501497:
   branch: Centrala - Biuro Maklerskie
 17501501:
-  branch: Oddział w Elblągu
+  branch: Oddział w Gdańsku ul. Rajska 4
 17501514:
   branch: Centrum Operacyjne Ruda Śląska
 17501527:

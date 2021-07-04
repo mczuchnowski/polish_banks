@@ -14,6 +14,8 @@ name: Bank Polska Kasa Opieki Spółka Akcyjna
   branch: Dom Maklerski Pekao
 12400072:
   branch: Centrala - OOR 5
+12400115:
+  branch: Centrum Obsługi nr 1
 12401011:
   branch: XII Oddział w Warszawie
 12401024:
@@ -273,7 +275,7 @@ name: Bank Polska Kasa Opieki Spółka Akcyjna
 12402340:
   branch: I Oddział w Sanoku
 12402353:
-  branch: I Oddział w Iwoniczu-Zdroju
+  branch: III Oddział w Krośnie
 12402366:
   branch: I Oddział w Ustrzykach Dolnych
 12402379:
@@ -449,7 +451,7 @@ name: Bank Polska Kasa Opieki Spółka Akcyjna
 12403220:
   branch: IV Oddział w Poznaniu
 12403233:
-  branch: I Oddział w Swarzędzu
+  branch: VIII Oddział w Poznaniu
 12403246:
   branch: I Oddział we Wrześni
 12403259:
@@ -653,19 +655,19 @@ name: Bank Polska Kasa Opieki Spółka Akcyjna
 12404285:
   branch: III Oddział w Gliwicach
 12404298:
-  branch: Oddział w Gliwicach ul.Kozielska 89
+  branch: Oddział Gliwicach ul. Berbeckiego 4
 12404302:
   branch: Oddział w Knurowie ul.Kapelanów Wojskowych 17
 12404315:
   branch: Oddział w Mysłowicach ul.Mikołowska 6
 12404331:
-  branch: Oddział w Tychach ul.Turyńska 100
+  branch: Oddział w Tychach ul. Wyszyńskiego 27
 12404344:
   branch: Oddział w Imielinie ul.Imielińska 87
 12404357:
   branch: Oddział w Rybniku ul.3 Maja 10
 12404360:
-  branch: Oddział w Rybniku ul.Rymera 4
+  branch: IV Oddział w Rybniku
 12404373:
   branch: Oddział w Żorach Rynek 4
 12404386:
@@ -673,7 +675,7 @@ name: Bank Polska Kasa Opieki Spółka Akcyjna
 12404399:
   branch: Oddział w Rybniku ul. B. Chrobrego 8
 12404403:
-  branch: Oddział w Jejkowicach ul.Główna 38A
+  branch: II Oddział w Rybniku
 12404416:
   branch: Oddział w Kielcach al.1000-lecia Państwa  Polskiego 4
 12404432:
@@ -691,15 +693,15 @@ name: Bank Polska Kasa Opieki Spółka Akcyjna
 12404504:
   branch: Oddział w Krakowie ul.Zakopiańska 58
 12404517:
-  branch: Oddział w Krakowie ul.Mały Płaszów 4
+  branch: XIV Oddział w Krakowie
 12404520:
-  branch: Oddział w Świątnikach Górnych ul.Bruchnalskiego 4
+  branch: I Oddział w Myślenicach
 12404533:
   branch: Oddział w Krakowie ul.Pijarska 1
 12404546:
-  branch: Oddział w Krakowie ul.Balicka 18A
+  branch: Oddział w Krakowie ul. Conrada 63
 12404559:
-  branch: Oddział w Krakowie al. Mickiewicza 30
+  branch: XV Oddział w Krakowie
 12404562:
   branch: VI Oddział w Krakowie
 12404575:
@@ -713,7 +715,7 @@ name: Bank Polska Kasa Opieki Spółka Akcyjna
 12404618:
   branch: XII Oddział w Krakowie
 12404621:
-  branch: Oddział w Krakowie Os.Na Wzgórzach 32
+  branch: XVII Oddział w Krakowie
 12404634:
   branch: Oddział w Krakowie Os.Tysiąclecia 42
 12404647:
@@ -743,7 +745,7 @@ name: Bank Polska Kasa Opieki Spółka Akcyjna
 12404764:
   branch: III Oddział w Rzeszowie
 12404777:
-  branch: Oddział w Rzeszowie ul.Hetmańska 58
+  branch: IV Oddział w Rzeszowie
 12404793:
   branch: Oddział w Stalowej Woli ul.Wolności 17
 12404807:
@@ -751,7 +753,7 @@ name: Bank Polska Kasa Opieki Spółka Akcyjna
 12404810:
   branch: II Oddział w Dębicy
 12404823:
-  branch: Oddział w Sosnowcu ul.Gen.Zaruskiego 11
+  branch: Oddział w Sosnowcu al. Blachnickiego 3
 12404836:
   branch: Oddział w Sosnowcu ul.Małachowskiego 3
 12404849:
@@ -771,7 +773,7 @@ name: Bank Polska Kasa Opieki Spółka Akcyjna
 12404911:
   branch: I Oddział w Zawierciu
 12404924:
-  branch: Oddział w Dąbrowie Górniczej ul. Kościuszki 7a
+  branch: I Oddział w Dąbrowie Górniczej
 12404937:
   branch: Oddział w Zawierciu ul. Sikorskiego 19
 12404940:
@@ -819,9 +821,9 @@ name: Bank Polska Kasa Opieki Spółka Akcyjna
 12405178:
   branch: Oddział w Opolu pl.Wolności 3
 12405181:
-  branch: Oddział w Mielcu ul. Pisarka 10
+  branch: Oddział w Mielcu ul. Obrońców Pokoju 7
 12405194:
-  branch: Oddział w Tarnowie ul.Wałowa 10
+  branch: Oddział w Tarnowie pl. Kazimierz Wielkiego 3a
 12405208:
   branch: Oddział w Bochni ul.Kazimierza Wielkiego 9
 12405211:
@@ -865,7 +867,7 @@ name: Bank Polska Kasa Opieki Spółka Akcyjna
 12405400:
   branch: Oddział w Gdańsku ul.Ogarna 116
 12405413:
-  branch: Oddział w Gdańsku ul.Stary Rynek Oliwski 16
+  branch: I Oddział w Sopocie
 12405426:
   branch: Oddział w Kolbudach ul.Wybickiego 32C
 12405439:
@@ -897,7 +899,7 @@ name: Bank Polska Kasa Opieki Spółka Akcyjna
 12405569:
   branch: Oddział w Łodzi ul.Aleksandrowska 38
 12405572:
-  branch: Oddział w Łodzi ul.Jana Karskiego 5
+  branch: XII Oddział w Łodzi
 12405585:
   branch: Oddział w Łodzi ul.Sienkiewicza 85/87
 12405598:
@@ -911,7 +913,7 @@ name: Bank Polska Kasa Opieki Spółka Akcyjna
 12405631:
   branch: Oddział w Wyszkowie ul.Gen.Sowińskiego 81A
 12405644:
-  branch: Oddział w Płocku ul.Armii Krajowej 6
+  branch: III Oddział w Płocku
 12405657:
   branch: Oddział w Płocku ul.Tysiąclecia 10
 12405660:
@@ -921,7 +923,7 @@ name: Bank Polska Kasa Opieki Spółka Akcyjna
 12405686:
   branch: Oddział w Tarczynie ul.Warszawska 11
 12405699:
-  branch: Oddział w Nowym Mieści nad Pilicą ul. 11 Listopada 57
+  branch: I Oddział w Grójcu
 12405703:
   branch: Oddział w Radomiu ul.Tadeusza Kościuszki 2
 12405716:
@@ -941,13 +943,13 @@ name: Bank Polska Kasa Opieki Spółka Akcyjna
 12405787:
   branch: Oddział w Giżycku ul.Dąbrowskiego 12
 12405790:
-  branch: Oddział w Słupsku ul.Jana Kilińskiego 45A
+  branch: III Oddział w Słupsku
 12405804:
   branch: Oddział w Tomaszowie Mazowieckim ul. Mościckiego 31/33
 12405817:
   branch: Oddział w Czersku ul.J.Ostrowskiego 2
 12405820:
-  branch: Oddział w Brusach ul.Jana Pawła II 2
+  branch: Oddział w Chojnicach ul. Sukienników 5
 12405833:
   branch: Oddział w Kraśniku ul.Kościuszki 5
 12405846:
@@ -969,7 +971,7 @@ name: Bank Polska Kasa Opieki Spółka Akcyjna
 12405921:
   branch: Oddział w Warszawie ul.Grójecka 74
 12405934:
-  branch: Oddział w Warszawie ul. Grzybowska 53/57
+  branch: XXXIII Oddział w Warszawie
 12405947:
   branch: Oddział w Gdyni ul.Kartuska 9
 12405950:
@@ -999,9 +1001,9 @@ name: Bank Polska Kasa Opieki Spółka Akcyjna
 12406087:
   branch: Oddział w Warszawie ul. Kondratowicza 22
 12406090:
-  branch: Oddział w Warszawie ul. Światowida 47
+  branch: XXXVI Oddział w Warszawie
 12406104:
-  branch: Oddział w Warszawie ul.Targowa 81
+  branch: XXXVII Oddział w Warszawie
 12406117:
   branch: Oddział w Warszawie ul.Modlińska 199
 12406120:
@@ -1009,7 +1011,7 @@ name: Bank Polska Kasa Opieki Spółka Akcyjna
 12406133:
   branch: Oddział w Warszawie ul.Grochowska 124/126
 12406146:
-  branch: Oddział w Warszawie ul. Targowa 62
+  branch: XXXI Oddział w Warszawie
 12406159:
   branch: Oddział w Warszawie ul.Ostrobramska 101A
 12406162:
@@ -1037,13 +1039,13 @@ name: Bank Polska Kasa Opieki Spółka Akcyjna
 12406276:
   branch: XXVII Oddział w Warszawie
 12406289:
-  branch: Oddział w Warszawie ul. Bonifacego 92
+  branch: Oddział w Warszawie ul. Witosa 31
 12406292:
   branch: Oddział w Warszawie ul.Towarowa 25
 12406306:
-  branch: Oddział w Warszawie ul.Wolumen 18
+  branch: Oddział w Warszawie ul. Kochanowskiego 39
 12406319:
-  branch: Oddział w Warszawie ul.Biała 4
+  branch: XXXII Oddział w Warszawie
 12406322:
   branch: Oddział w Warszawie ul.Nowolipki 2,2A
 12406335:
@@ -1063,7 +1065,7 @@ name: Bank Polska Kasa Opieki Spółka Akcyjna
 12406407:
   branch: Oddział w Piastowie ul.Dworcowa 1
 12406410:
-  branch: Oddział w Warszawie ul.Malczewskiego 54
+  branch: XXXVIII Oddział w Warszawie
 12406423:
   branch: Oddział w Warszawie ul.Puławska 54/56
 12406436:
@@ -1075,7 +1077,7 @@ name: Bank Polska Kasa Opieki Spółka Akcyjna
 12406465:
   branch: Oddział w Nakle nad Notecią ul.Gen.Henryka Dąbrowskiego 17-23
 12406478:
-  branch: Oddział w Bydgoszczy ul.Jagiellońska 34
+  branch: III Oddział w Bydgoszczy
 12406481:
   branch: Oddział w Bydgoszczy ul.Eugeniusza Kwiatkowskiego 2
 12406494:
@@ -1105,7 +1107,7 @@ name: Bank Polska Kasa Opieki Spółka Akcyjna
 12406612:
   branch: VII Oddział w Poznaniu
 12406625:
-  branch: Oddział w Poznaniu ul.Grunwaldzka 21
+  branch: IX Oddział w Poznaniu
 12406638:
   branch: Oddział w Poznaniu Al.Solidarności 46
 12406641:
@@ -1113,11 +1115,11 @@ name: Bank Polska Kasa Opieki Spółka Akcyjna
 12406654:
   branch: Oddział w Szczecinie ul.Smolańska 4
 12406667:
-  branch: Oddział w Szczecinie Pl. Orła Białego 3
+  branch: Oddział w Szczecinie ul. Grodzka 9
 12406670:
   branch: Oddział we Wrocławiu pl.Powstańców Śląskich 9
 12406683:
-  branch: Oddział we Wrocławiu ul.Komandorska 118-120
+  branch: IX Oddział we Wrocławiu
 12406696:
   branch: Oddział we Wrocławiu ul. Sucha 1
 12406700:
@@ -1127,11 +1129,11 @@ name: Bank Polska Kasa Opieki Spółka Akcyjna
 12406726:
   branch: Oddział we Wrocławiu ul.Gen.Jana Henryka  Dąbrowskiego 42
 12406739:
-  branch: Oddział we Wrocławiu ul.Świeradowska 51/57
+  branch: Oddział we Wrocławiu ul. Wałbrzyska 24
 12406742:
   branch: VIII Oddział we Wrocławiu
 12406755:
-  branch: Oddział we Wrocławiu ul.Karola Olszewskiego 75/77
+  branch: Oddział we Wrocławiu ul. Oławska 2
 12406768:
   branch: Oddział we Wrocławiu ul. Ruska 51A
 12406771:
@@ -1145,7 +1147,7 @@ name: Bank Polska Kasa Opieki Spółka Akcyjna
 12406814:
   branch: Oddział we Wrocławiu Rynek 1
 12406827:
-  branch: Oddział we Wrocławiu ul.Horbaczewskiego 4-6
+  branch: Oddział we Wrocławiu ul. Pereca 21
 12406830:
   branch: Oddział we Wrocławiu ul.Jedności Narodowej 203
 12406843:
@@ -1178,7 +1180,5 @@ name: Bank Polska Kasa Opieki Spółka Akcyjna
   branch: Oddział w Warszawie ul.Żwirki i Wigury 31
 12406986:
   branch: Biuro Monitoringu i Rozliczeń Kartowych
-12406999:
-  branch: Oddział w Tychach ul. Wyszyńskiego 27
 12400102:
   branch: Pekao Bank Hipoteczny S.A.

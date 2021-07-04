@@ -4,18 +4,24 @@ name: BNP Paribas Bank Polska Spółka Akcyjna
   branch: Centrala
 16000016:
   branch: Centrala Pion Kredytów Konsumenckich
+16000029:
+  branch: Obsługa Płatności masowych 4 Ruda Śląska ul. Oświęcimska 9
+16000032:
+  branch: Obsługa Płatności masowych 3 Ruda Śląska ul. Oświęcimska 9
 16001013:
   branch: Oddział w Krakowie ul. Lubicz 23
 16001039:
-  branch: Oddział w Krakowie ul. Kościuszki 53
+  branch: Oddział w Krakowie ul. Armii Krajowej 28
 16001042:
   branch: Oddział w Zakopanem ul. Chramcówki 33
 16001055:
   branch: Oddział w Katowicach ul. Chorzowska 6
+16001068:
+  branch: Oddział w Warszawie Al. Jerozolimskie 81
 16001071:
   branch: Filia ds. Obsługi Płatności Masowych w Krakowie ul.Armii Krajowej 28
 16001084:
-  branch: Oddział w Poznaniu ul. Wierzbięcice 1
+  branch: Oddział w Poznaniu ul. Bóżnicza 1
 16001097:
   branch: Oddział w Częstochowie ul. Popiełuszki 2
 16001101:
@@ -25,11 +31,11 @@ name: BNP Paribas Bank Polska Spółka Akcyjna
 16001127:
   branch: Oddział w Warszawie ul. Gotarda 9
 16001143:
-  branch: Oddział w Łodzi ul. Piłsudskiego 76
+  branch: Oddział w Łodzi Al. Piłsudskiego 76
 16001156:
   branch: Oddział we Wrocławiu ul. Ruska 20/21
 16001169:
-  branch: Oddział w Ząbkach ul. Piłsudskiego 176
+  branch: Oddział w Ząbkach ul. Powstańców 27 lok. U3
 16001172:
   branch: Oddział w Gliwicach ul. Zwycięstwa 30
 16001185:
@@ -37,21 +43,21 @@ name: BNP Paribas Bank Polska Spółka Akcyjna
 16001198:
   branch: Oddział w Krakowie ul. Armii Krajowej 28
 16001202:
-  branch: Filia w Poznaniu ul. Wierzbięcice 1
+  branch: Oddział w Poznaniu ul. Bóżnicza 1
 16001215:
   branch: Filia w Warszawie ul. Gotarda 9
 16001228:
   branch: Oddział w Warszawie ul. Marszałkowska 68/70
 16001231:
-  branch: Filia w Katowicach ul. Chorzowska 6
+  branch: Oddział w Katowicach ul. Chorzowska 6
 16001244:
   branch: Filia we Wrocławiu ul. Ruska 20/21
 16001257:
-  branch: Filia w Łodzi ul. Żeromskiego 96
+  branch: Oddział w Łodzi Al. Piłsudskiego 76
 16001260:
-  branch: Oddział w Szczecinie ul. Narutowicza 12
+  branch: Oddział w Szczecinie Al. Wojska Polskiego 3
 16001273:
-  branch: Oddział w Kielcach ul. Wesoła 33
+  branch: Oddział w Kielcach ul. Warszawska 143D
 16001286:
   branch: Oddział w Warszawie al. Krakowska 2
 16001299:
@@ -59,7 +65,7 @@ name: BNP Paribas Bank Polska Spółka Akcyjna
 16001303:
   branch: Oddział w Gdańsku ul. Okopowa 7
 16001316:
-  branch: Oddział w Olsztynie ul. Mickiewicza 9
+  branch: Oddział w Olsztynie Al. J. Piłsudskiego 11/17
 16001329:
   branch: Oddział w Opolu ul. Krakowska 26
 16001332:
@@ -69,9 +75,11 @@ name: BNP Paribas Bank Polska Spółka Akcyjna
 16001358:
   branch: Oddział w Nowym Targu ul. Waksmundzka 30
 16001361:
-  branch: Oddział w Łodzi ul. Piotrkowska 189/191
+  branch: Oddział w Łodzi Al. Piłsudskiego 76
+16001374:
+  branch: Oddział w Warszawie Al. Jerozolimskie 81
 16001387:
-  branch: Oddział w Szczecinie ul. Rayskiego 1
+  branch: Oddział w Szczecinie Al. Wojska Polskiego 3
 16001390:
   branch: Oddział w Poznaniu ul. Św. Marcin 71
 16001404:
@@ -79,7 +87,7 @@ name: BNP Paribas Bank Polska Spółka Akcyjna
 16001417:
   branch: Oddział w Pruszkowie ul. Niecała 10
 16001420:
-  branch: Oddział w Krakowie ul. Wadowicka 2
+  branch: Oddział w Krakowie ul. Bonarka 8
 16001433:
   branch: Oddział we Wrocławiu ul. Bema 15
 16001446:
@@ -89,10 +97,10 @@ name: BNP Paribas Bank Polska Spółka Akcyjna
 16001462:
   branch: Centrum Rozliczeniowe Nr 1 w Krakowie
 16001475:
-  branch: Oddział ds. Obsługi Płatności Masowych w Krakowie ul. Armii Krajowej 28
+  branch: Oddział w Krakowie ul. Armii Krajowej 28
 16001488:
-  branch: Oddział w Zielonej Górze ul.Bohaterów Westerplatte 4
+  branch: Oddział w Zielonej Górze ul. Stary Rynek 24 A
 16001491:
   branch: Oddział w Białymstoku ul. Lipowa 37
 16001505:
-  branch: Oddział nr 2 ds. Obsługi Płatności Masowych ul.Armii Krajowej 28
+  branch: Oddział w Krakowie ul. Armii Krajowej 28

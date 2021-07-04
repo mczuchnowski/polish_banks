@@ -121,7 +121,7 @@ name: ING Bank Śląski Spółka Akcyjna
 10501168:
   branch: Oddział w Myszkowie ul. Kopernika 4
 10501171:
-  branch: Oddział w Oleśnie, ul. Władysława Stanisława Reymonta 3
+  branch: Oddział w Oleśnie, Rynek 25
 10501201:
   branch: Oddział w Ostrowie Wielkopolskim ul. Kolejowa 35A
 10501214:
@@ -151,7 +151,7 @@ name: ING Bank Śląski Spółka Akcyjna
 10501331:
   branch: Oddział w Rudzie Śląskiej, ul. Piotra Niedurnego 54
 10501344:
-  branch: Oddział w Rybniku ul.Wieniawskiego 3
+  branch: Oddział w Rybniku, ul. 3 Maja 30
 10501357:
   branch: Oddział w Siemianowicach Śląskich ul.Świerczewskiego 1
 10501360:
@@ -161,11 +161,11 @@ name: ING Bank Śląski Spółka Akcyjna
 10501386:
   branch: Oddział w Tarnowskich Górach, ul. Strzelecka 5
 10501399:
-  branch: Oddział w Tychach ul.Aleja Niepodległości 55
+  branch: Oddział w Tychach al. Niepodległości 106
 10501403:
   branch: Oddział w Wodzisławiu Śląskim, ul. ks. płk. Wilhelma Kubsza 27
 10501416:
-  branch: Oddział w Kielcach ul.Silniczna 26
+  branch: Oddział w Kielcach al. IX Wieków Kielc 4a
 10501429:
   branch: Oddział w Pińczowie ul. Klasztorna 4
 10501432:
@@ -177,7 +177,7 @@ name: ING Bank Śląski Spółka Akcyjna
 10501461:
   branch: Oddział w Łodzi, ul. Jana Karskiego 5
 10501474:
-  branch: Oddział w Zakopanem ul.Piaseckiego 28
+  branch: Oddział w Zakopanem, ul. Jagiellońska 23
 10501487:
   branch: Oddział w Krapkowicach ul.1 Maja 2
 10501490:
@@ -187,7 +187,7 @@ name: ING Bank Śląski Spółka Akcyjna
 10501517:
   branch: Oddział w Kędzierzynie-Koźlu ul. Piastowska 14
 10501520:
-  branch: Oddział w Poznaniu ul.Piekary 7
+  branch: Oddział w Poznaniu, ul. Półwiejska 2
 10501533:
   branch: Oddział w Tarnowie Podgórnym ul.Poznańska 84
 10501546:
@@ -195,7 +195,7 @@ name: ING Bank Śląski Spółka Akcyjna
 10501559:
   branch: Oddział w Szczecinie ul.3 Maja 30
 10501562:
-  branch: Oddział w Tarnowie, ul. Juliusza Słowackiego 33-37
+  branch: Oddział w Tarnowie, ul. Krakowska 46
 10501575:
   branch: Oddział we Wrocławiu ul. Szewska 72
 10501588:
@@ -209,9 +209,9 @@ name: ING Bank Śląski Spółka Akcyjna
 10501621:
   branch: Oddział w Piekarach Śląskich, ul. Bytomska 77
 10501634:
-  branch: Oddział w Mikołowie ul. Karola Miarki 20
+  branch: Oddział w Mikołowie, ul. Młyńska 9
 10501676:
-  branch: Oddział w Żorach ul. Bankowa 4
+  branch: Oddział w Żorach ul. Aleja Jana Pawła II
 10501722:
   branch: Oddział w Nowym Sączu ul.Kościuszki 13
 10501735:
@@ -223,7 +223,7 @@ name: ING Bank Śląski Spółka Akcyjna
 10501764:
   branch: Oddział w Gdańsku, al. Grunwaldzka 56
 10501777:
-  branch: Oddział w Warce ul.Wójtowska 1
+  branch: Oddział w Warce ul. Długa 13
 10501793:
   branch: Oddział w Radomiu, ul. Stefana Żeromskiego 40
 10501807:
@@ -233,19 +233,19 @@ name: ING Bank Śląski Spółka Akcyjna
 10501823:
   branch: Oddział w Białymstoku, ul. Jana Klemensa Branickiego 17B
 10501836:
-  branch: Oddział w Dębicy, Rynek 27
+  branch: Oddział w Dębicy, ul. Rynek 27
 10501849:
   branch: Oddział w Krynicy-Zdroju ul. Józefa Ignacego Kraszewskiego 1
 10501852:
-  branch: Oddział we Wrześni ul.Fabryczna 5
+  branch: Oddział we Wrześni
 10501881:
   branch: Oddział w Namysłowie ul.Partyzantów 1
 10501894:
-  branch: Oddział w Siedlcach ul.Sokołowska 56
+  branch: Oddział w Siedlcach ul. Morska 7
 10501908:
-  branch: Oddział w Wałbrzychu ul.Pl.Magistracki 8
+  branch: Oddział w Wałbrzychu ul. Juliusza Słowackiego 7
 10501911:
-  branch: Oddział w Zielonej Górze ul.Al.Niepodległości 27
+  branch: Oddział w Zielonej Górze, ul. Bohaterów Westerplatte 19
 10501924:
   branch: Oddział w Pruszkowie ul.Kościuszki 50
 10501937:
@@ -255,6 +255,6 @@ name: ING Bank Śląski Spółka Akcyjna
 10501953:
   branch: Oddział w Lublinie ul. Tomasza Zana 39
 10501966:
-  branch: Oddział w Płocku ul.Wyszogrodzka 5A
+  branch: Oddział w Płocku
 10501979:
   branch: Oddział w Toruniu, ul. Szosa Chełmińska 26
