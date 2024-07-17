@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+# frozen_string_literal: true
 
 require 'fileutils'
 require 'yaml'
@@ -7,7 +8,7 @@ BANK_NAME_COL = 1
 BRANCH_IDENTIFIER_COL = 4
 BRANCH_NAME_COL = 5
 DATA_DIR_NAME = 'data'
-FILENAMES = ['plewibnra.txt', 'PlainDok.txt'].freeze
+FILENAMES = ['plewibnra.txt', 'PlainDok.txt', 'PlainDok'].freeze
 
 filename = FILENAMES.detect { |file| File.exist?(file) }
 

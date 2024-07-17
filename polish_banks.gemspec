@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'polish_banks'
-  s.version     = '1.1.3'
+  s.version     = '1.2.0'
   s.date        = '2021-07-04'
   s.summary     = 'Polish bank detector'
   s.description = 'Get information about a Polish bank based on IBAN or account number.'
@@ -9,6 +9,6 @@ Gem::Specification.new do |s|
   s.files       = `git ls-files -z`.split("\x0")
   s.homepage    = 'https://github.com/mczuchnowski/polish_banks'
   s.license     = 'MIT'
-  s.add_development_dependency 'rspec', '~> 3.0'
+  s.add_development_dependency 'rspec', '~> 3.13'
   s.add_development_dependency 'simplecov'
 end

@@ -12,7 +12,7 @@ class PolishBank
     @iban = iban
     check_country
     data = YAML.load_file(File.join(File.dirname(__FILE__), 'data', "#{bank_identifier}.yml"))
-    @name = data.dig('name')
+    @name = data['name']
     @branch = data.dig(full_identifier, 'branch') || ''
   rescue Errno::ENOENT
     raise BankNotFound, "Polish bank not found for #{iban}"

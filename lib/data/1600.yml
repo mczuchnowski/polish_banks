@@ -8,6 +8,10 @@ name: BNP Paribas Bank Polska Spółka Akcyjna
   branch: Obsługa Płatności masowych 4 Ruda Śląska ul. Oświęcimska 9
 16000032:
   branch: Obsługa Płatności masowych 3 Ruda Śląska ul. Oświęcimska 9
+16000045:
+  branch: Obsługa Płatności masowych 5 Ruda Śląska ul. Oświęcimska 9
+16000058:
+  branch: Obsługa Płatności masowych 4-Ruda Śląska ul. Oświęcimska 9
 16001013:
   branch: Oddział w Krakowie ul. Lubicz 23
 16001039:
@@ -25,7 +29,7 @@ name: BNP Paribas Bank Polska Spółka Akcyjna
 16001097:
   branch: Oddział w Częstochowie ul. Popiełuszki 2
 16001101:
-  branch: Oddział w Lublinie ul. Probostwo 6a
+  branch: Oddział w Lublinie ul. Krakowskie Przedmieście 49
 16001114:
   branch: Oddział w Gdyni pl. Kaszubski 8
 16001127:
@@ -73,7 +77,7 @@ name: BNP Paribas Bank Polska Spółka Akcyjna
 16001345:
   branch: Oddział w Toruniu ul. Czerwona Droga 1-6
 16001358:
-  branch: Oddział w Nowym Targu ul. Waksmundzka 30
+  branch: Oddział w Nowym Targu ul. Królowej Jadwigi 29
 16001361:
   branch: Oddział w Łodzi Al. Piłsudskiego 76
 16001374:
@@ -99,7 +103,7 @@ name: BNP Paribas Bank Polska Spółka Akcyjna
 16001475:
   branch: Oddział w Krakowie ul. Armii Krajowej 28
 16001488:
-  branch: Oddział w Zielonej Górze ul. Stary Rynek 24 A
+  branch: Oddział w Zielonej Górze ul. Stary Rynek 24A
 16001491:
   branch: Oddział w Białymstoku ul. Lipowa 37
 16001505:

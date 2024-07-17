@@ -92,6 +92,16 @@ name: ING Bank Śląski Spółka Akcyjna
   branch: ING Bank Śląski S.A.Wrocław III
 10500451:
   branch: ING Bank Śląski S.A.Zielona Góra II
+10500464:
+  branch: Centrala - Centrum Płatności i Obsługi Klientów
+10500477:
+  branch: Centrala - Centrum Płatności i Obsługi Klientów
+10500480:
+  branch: ING Bank Śląski S.A. Warszawa III
+10500493:
+  branch: ING Bank Śląski S.A. Poznań III
+10500507:
+  branch: ING Bank Śląski S.A. Łódź II
 10501012:
   branch: Oddział w Legionowie, ul. Handlowa 14
 10501025:
@@ -99,7 +109,7 @@ name: ING Bank Śląski Spółka Akcyjna
 10501038:
   branch: Oddział w Warszawie ul.Nowowiejska 5
 10501041:
-  branch: Oddział w Warszawie ul. Grójecka 81/87
+  branch: Placówka bankowa w Warszawie ul. Grójecka 81/87
 10501054:
   branch: Oddział w Warszawie ul.Belwederska 20/22
 10501070:
@@ -107,81 +117,81 @@ name: ING Bank Śląski Spółka Akcyjna
 10501083:
   branch: Oddział w Cieszynie ul. Mennicza 1
 10501096:
-  branch: Oddział w Ustroniu, ul. Ignacego Daszyńskiego 6
+  branch: Placówka bankowa w Ustroniu, ul. Ignacego Daszyńskiego 6
 10501100:
   branch: Oddział w Wadowicach, ul. Lwowska 16
 10501113:
-  branch: Oddział w Kętach ul. Kościuszki 15
+  branch: Placówka bankowa w Kętach ul. Kościuszki 15
 10501139:
   branch: Oddział w Bydgoszczy, ul. Mostowa 2
 10501142:
-  branch: Oddział w Częstochowie, Aleja Najświętszej Maryi Panny 36/38
+  branch: Placówka bankowa w Częstochowie, Aleja Najświętszej Maryi Panny 36/38
 10501155:
-  branch: Oddział w Lublińcu, Plac Sienkiewicza 8
+  branch: Oddział w Lublińcu, Mickiewicza 28
 10501168:
-  branch: Oddział w Myszkowie ul. Kopernika 4
+  branch: Placówka bankowa w Myszkowie ul. Kopernika 4
 10501171:
-  branch: Oddział w Oleśnie, Rynek 25
+  branch: Placówka bankowa w Oleśnie, Rynek 25
 10501201:
-  branch: Oddział w Ostrowie Wielkopolskim ul. Kolejowa 35A
+  branch: Oddział w Ostrowie Wielkopolskim ul. Kolejowa 31
 10501214:
-  branch: Oddział w Katowicach, ul. Sokolska 34
+  branch: Placówka bankowa w Katowicach, ul. Sokolska 34
 10501227:
   branch: Oddział w Będzinie, ul. 11 Listopada 9
 10501230:
-  branch: Oddział w Bytomu, ul. Wrocławska 32
+  branch: Placówka bankowa w Bytomu, ul. Wrocławska 32
 10501243:
-  branch: Oddział w Chorzowie ul. Wolności 12
+  branch: Placówka bankowa w Chorzowie ul. Wolności 12
 10501256:
-  branch: Oddział w Czechowicach-Dziedzicach, ul. Niepodległości 10A
+  branch: Placówka bankowa w Czechowicach-Dziedzicach, ul. Niepodległości 10
 10501269:
-  branch: Oddział w Czeladzi, ul. Bytomska 2
+  branch: Placówka bankowa w Czeladzi, ul. Bytomska 2
 10501272:
-  branch: Oddział w Dąbrowie Górniczej, ul. 3 Maja 1
+  branch: Placówka bankowa w Dąbrowie Górniczej, ul. 3 Maja 1
 10501285:
-  branch: Oddział w Gliwicach, Rynek 10
+  branch: Placówka bankowa w Gliwicach, Rynek 10
 10501298:
   branch: Oddział w Gliwicach ul. Zwycięstwa 52
 10501302:
-  branch: Oddział w Jaworznie, ul. Grunwaldzka 59
+  branch: Placówka bankowa w Jaworznie, ul. Grunwaldzka 59
 10501315:
-  branch: Oddział w Pszczynie ul.Bankowa 1
+  branch: Placówka bankowa w Pszczynie ul. Dworcowa 8
 10501328:
-  branch: Oddział w Raciborzu ul.Sienkiewicza 2
+  branch: Placówka bankowa w Raciborzu ul.Sienkiewicza 2
 10501331:
-  branch: Oddział w Rudzie Śląskiej, ul. Piotra Niedurnego 54
+  branch: Placówka bankowa w Rudzie Śląskiej, ul. Piotra Niedurnego 54
 10501344:
   branch: Oddział w Rybniku, ul. 3 Maja 30
 10501357:
-  branch: Oddział w Siemianowicach Śląskich ul.Świerczewskiego 1
+  branch: Placówka bankowa w Siemianowicach Śląskich ul. Śląska 1
 10501360:
   branch: Oddział w Sosnowcu, ul. Stanisława Małachowskiego 7
 10501373:
-  branch: Oddział w Świętochłowicach ul.Bytomska 8
+  branch: Placówka bankowa w Świętochłowicach ul.Bytomska 8
 10501386:
   branch: Oddział w Tarnowskich Górach, ul. Strzelecka 5
 10501399:
   branch: Oddział w Tychach al. Niepodległości 106
 10501403:
-  branch: Oddział w Wodzisławiu Śląskim, ul. ks. płk. Wilhelma Kubsza 27
+  branch: Placówka bankowa w Wodzisławiu Śląskim, ul. ks. płk. Wilhelma Kubsza 27
 10501416:
   branch: Oddział w Kielcach al. IX Wieków Kielc 4a
 10501429:
-  branch: Oddział w Pińczowie ul. Klasztorna 4
+  branch: Placówka bankowa w Pińczowie ul. Klasztorna 4
 10501432:
-  branch: Oddział w Starachowicach ul.Krzosa 4
+  branch: Placówka bankowa w Starachowicach ul. Bankowa 5
 10501445:
-  branch: Oddział w Krakowie ul.Al.Pokoju 78
+  branch: Oddział w Krakowie, Aleja Pokoju 78
 10501458:
-  branch: Oddział w Krośnie ul.Rynek 8
+  branch: Placówka bankowa w Krośnie ul. Pawła z Krosna 2
 10501461:
-  branch: Oddział w Łodzi, ul. Jana Karskiego 5
+  branch: Placówka bankowa w Łodzi, ul. Jana Karskiego 5
 10501474:
-  branch: Oddział w Zakopanem, ul. Jagiellońska 23
+  branch: Placówka bankowa w Zakopanem, ul. Jagiellońska 23
 10501487:
-  branch: Oddział w Krapkowicach ul.1 Maja 2
+  branch: Placówka bankowa w Krapkowicach ul.1 Maja 2
 10501490:
-  branch: Oddział w Nysie ul.Piastowska 33
+  branch: Oddział w Nysie ul. Celna 28
 10501504:
   branch: Oddział w Opolu ul. Zwierzyniecka 2
 10501517:
@@ -189,11 +199,11 @@ name: ING Bank Śląski Spółka Akcyjna
 10501520:
   branch: Oddział w Poznaniu, ul. Półwiejska 2
 10501533:
-  branch: Oddział w Tarnowie Podgórnym ul.Poznańska 84
+  branch: Placówka bankowa w Tarnowie Podgórnym ul.Poznańska 84
 10501546:
-  branch: Oddział w Przemyślu ul.Dworskiego 39
+  branch: Oddział w Przemyślu ul. Plac na Bramie 8
 10501559:
-  branch: Oddział w Szczecinie ul.3 Maja 30
+  branch: Oddział w Szczecinie, ul. Księdza Kardynała Stefana Wyszyńskiego 1
 10501562:
   branch: Oddział w Tarnowie, ul. Krakowska 46
 10501575:
@@ -201,60 +211,60 @@ name: ING Bank Śląski Spółka Akcyjna
 10501588:
   branch: Oddział w Zabrzu ul.Wolności 305
 10501591:
-  branch: Oddział w Zawierciu ul. Leśna 6
+  branch: Placówka bankowa w Zawierciu ul. Leśna 6
 10501605:
-  branch: Oddział w Jastrzębiu-Zdroju ul. Mazowiecka 12
+  branch: Placówka bankowa w Jastrzębiu-Zdroju ul. Mazowiecka 12
 10501618:
   branch: Oddział w Olkuszu ul. Króla Kazimierza Wielkiego 62A
 10501621:
-  branch: Oddział w Piekarach Śląskich, ul. Bytomska 77
+  branch: Placówka bankowa w Piekarach Śląskich, ul. Bytomska 77
 10501634:
-  branch: Oddział w Mikołowie, ul. Młyńska 9
+  branch: Placówka bankowa w Mikołowie, ul. Młyńska 9
 10501676:
-  branch: Oddział w Żorach ul. Aleja Jana Pawła II
+  branch: Placówka bankowa w Żorach ul. Aleja Jana Pawła II
 10501722:
   branch: Oddział w Nowym Sączu ul.Kościuszki 13
 10501735:
-  branch: Oddział w Koninie ul.1 Maja 15A
+  branch: Oddział w Koninie ul. Dworcowa 15J
 10501748:
   branch: Oddział w Legnicy ul. Wrocławska 27
 10501751:
   branch: Oddział w Jeleniej Górze, Plac Księdza Kardynała Stefana Wyszyńskiego 54
 10501764:
-  branch: Oddział w Gdańsku, al. Grunwaldzka 56
+  branch: Placówka bankowa w Gdańsku, al. Grunwaldzka 56
 10501777:
-  branch: Oddział w Warce ul. Długa 13
+  branch: Placówka bankowa w Warce ul. Długa 13
 10501793:
   branch: Oddział w Radomiu, ul. Stefana Żeromskiego 40
 10501807:
   branch: Oddział w Olsztynie ul. Towarowa 1
 10501810:
-  branch: Oddział w Kazimierzy Wielkiej ul.Kościuszki 1
+  branch: Placówka bankowa w Kazimierzy Wielkiej ul.Kościuszki 1
 10501823:
   branch: Oddział w Białymstoku, ul. Jana Klemensa Branickiego 17B
 10501836:
-  branch: Oddział w Dębicy, ul. Rynek 27
+  branch: Placówka bankowa w Dębicy, ul. Rynek 27
 10501849:
-  branch: Oddział w Krynicy-Zdroju ul. Józefa Ignacego Kraszewskiego 1
+  branch: Placówka bankowa w Krynicy-Zdroju ul. Józefa Ignacego Kraszewskiego 1
 10501852:
-  branch: Oddział we Wrześni
+  branch: Placówka bankowa we Wrześni ul. Warszawska 14
 10501881:
-  branch: Oddział w Namysłowie ul.Partyzantów 1
+  branch: Placówka bankowa w Namysłowie ul.Partyzantów 1
 10501894:
   branch: Oddział w Siedlcach ul. Morska 7
 10501908:
-  branch: Oddział w Wałbrzychu ul. Juliusza Słowackiego 7
+  branch: Placówka bankowa w Wałbrzychu ul. Juliusza Słowackiego 7
 10501911:
   branch: Oddział w Zielonej Górze, ul. Bohaterów Westerplatte 19
 10501924:
-  branch: Oddział w Pruszkowie ul.Kościuszki 50
+  branch: Placówka bankowa w Pruszkowie ul. Ołówkowa 1d
 10501937:
-  branch: Oddział w Bełchatowie ul. Józefa Piłsudskiego 15
+  branch: Placówka bankowa w Bełchatowie ul. Józefa Piłsudskiego 15
 10501940:
-  branch: Oddział w Elblągu ul.12 Lutego 19
+  branch: Placówka bankowa w Elblągu ul.12 Lutego 19
 10501953:
   branch: Oddział w Lublinie ul. Tomasza Zana 39
 10501966:
-  branch: Oddział w Płocku
+  branch: Oddział w Płocku ul. Bielska 51
 10501979:
   branch: Oddział w Toruniu, ul. Szosa Chełmińska 26
