@@ -1,5 +1,7 @@
 lib/plewibnra.txt
 lib/PlainDok.txt
+lib/PlainDok
 Gemfile.lock
 *.gem
 coverage/
+.vscode/*
